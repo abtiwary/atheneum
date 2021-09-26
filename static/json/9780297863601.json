@@ -1,0 +1,103 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6qt6y8npvqYC",
+   "etag": "zs04KLfEydg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6qt6y8npvqYC",
+   "volumeInfo": {
+    "title": "Himalaya",
+    "authors": [
+     "Michael Palin"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2010-05-27",
+    "description": "Michael Palin tackles the full length of the Himalaya in this terrific number one bestseller. Having risen to the challenge of seas, poles, dhows and deserts, the highest mountains in the world were a natural target for Michael Palin. In a journey rarely, if ever, attempted before, in 6 months of hard travelling Palin takes on the full length of the Himalaya including the Khyber Pass, the hidden valleys of the Hindu Kush, ancient cities like Peshawar and Lahore, the mighty peaks of K2, Annapurna and Everest, the gorges of the Yangtze, the tribal lands of the Indo-Burmese border and the vast Brahmaputra delta in Bangladesh. Facing altitudes as high as 17,500 feet as well as some of the world's deepest gorges, Palin also passed through political flashpoints like Pakistan's remote north-west frontier, terrorist-torn Kashmir and the mountains of Nagaland, only recently open to visitors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780297863601"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0297863606"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6qt6y8npvqYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6qt6y8npvqYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=6qt6y8npvqYC&printsec=frontcover&dq=isbn:9780297863601&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6qt6y8npvqYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6qt6y8npvqYC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6qt6y8npvqYC&rdid=book-6qt6y8npvqYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Himalaya-sample-epub.acsm?id=6qt6y8npvqYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=6qt6y8npvqYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Michael Palin tackles the full length of the Himalaya in this terrific number one bestseller. Having risen to the challenge of seas, poles, dhows and deserts, the highest mountains in the world were a natural target for Michael Palin."
+   }
+  }
+ ]
+}

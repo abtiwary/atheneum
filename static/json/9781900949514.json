@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "m5K4rm_O_-YC",
+   "etag": "DvGGPFHDScQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m5K4rm_O_-YC",
+   "volumeInfo": {
+    "title": "Indonesia",
+    "publishedDate": "2001",
+    "description": "It's been said a thousand times: Indonesia is an unlikely country. Of all the countries of Asia, it is the hardest to corral. There is no point in looking for a shared history prior to the colonial period, or a shared culture, or even a certain uniformity of environment. Divided between over 13,000 islands, hundreds of languages and cultures, several time zones, and spread over an expanse of sea linking Asia with Australasia, it is truly a kaleidoscopic place.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1900949512"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781900949514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1009,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=m5K4rm_O_-YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=m5K4rm_O_-YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "id",
+    "previewLink": "http://books.google.com.au/books?id=m5K4rm_O_-YC&dq=isbn:9781900949514&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=m5K4rm_O_-YC&dq=isbn:9781900949514&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Indonesia.html?hl=&id=m5K4rm_O_-YC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=m5K4rm_O_-YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It&#39;s been said a thousand times: Indonesia is an unlikely country. Of all the countries of Asia, it is the hardest to corral."
+   }
+  }
+ ]
+}

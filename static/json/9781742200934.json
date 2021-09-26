@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "I_bnSAAACAAJ",
+   "etag": "2vhbCeK4Sx0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I_bnSAAACAAJ",
+   "volumeInfo": {
+    "title": "Discover Australia",
+    "authors": [
+     "Lindsay Brown"
+    ],
+    "publishedDate": "2010",
+    "description": "\"We've selected the most iconic sights and incredible places so you can enjoy the real Australia with the minimum fuss. Discover guides are travel made easy, with Lonely Planet's trademark insider tips, helpful maps and destination expertise.\"--Publisher description.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1742200931"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742200934"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=I_bnSAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=I_bnSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=I_bnSAAACAAJ&dq=isbn:9781742200934&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=I_bnSAAACAAJ&dq=isbn:9781742200934&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Discover_Australia.html?hl=&id=I_bnSAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=I_bnSAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;We&#39;ve selected the most iconic sights and incredible places so you can enjoy the real Australia with the minimum fuss."
+   }
+  }
+ ]
+}

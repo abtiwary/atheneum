@@ -1,0 +1,100 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "io4-36SOChYC",
+   "etag": "DcW4hABTVYI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/io4-36SOChYC",
+   "volumeInfo": {
+    "title": "Our Cosmic Habitat",
+    "authors": [
+     "Martin Rees"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2011-09-19",
+    "description": "Our universe seems strangely ''biophilic,'' or hospitable to life. Is this happenstance, providence, or coincidence? According to cosmologist Martin Rees, the answer depends on the answer to another question, the one posed by Einstein's famous remark: ''What interests me most is whether God could have made the world differently.'' This highly engaging book explores the fascinating consequences of the answer being ''yes.'' Rees explores the notion that our universe is just a part of a vast ''multiverse,'' or ensemble of universes, in which most of the other universes are lifeless. What we call the laws of nature would then be no more than local bylaws, imposed in the aftermath of our own Big Bang. In this scenario, our cosmic habitat would be a special, possibly unique universe where the prevailing laws of physics allowed life to emerge. Rees begins by exploring the nature of our solar system and examining a range of related issues such as whether our universe is or isn't infinite. He asks, for example: How likely is life? How credible is the Big Bang theory? Rees then peers into the long-range cosmic future before tracing the causal chain backward to the beginning. He concludes by trying to untangle the paradoxical notion that our entire universe, stretching 10 billion light-years in all directions, emerged from an infinitesimal speck. As Rees argues, we may already have intimations of other universes. But the fate of the multiverse concept depends on the still-unknown bedrock nature of space and time on scales a trillion trillion times smaller than atoms, in the realm governed by the quantum physics of gravity. Expanding our comprehension of the cosmos, Our Cosmic Habitat will be read and enjoyed by all those--scientists and nonscientists alike--who are as fascinated by the universe we inhabit as is the author himself.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400841073"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1400841070"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "5.8.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=io4-36SOChYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=io4-36SOChYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=io4-36SOChYC&printsec=frontcover&dq=isbn:9781400841073&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=io4-36SOChYC&dq=isbn:9781400841073&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Our_Cosmic_Habitat.html?hl=&id=io4-36SOChYC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 25.17,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "http://books.google.com.au/books?id=io4-36SOChYC&dq=isbn:9781400841073&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.995E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.517E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Our_Cosmic_Habitat-sample-epub.acsm?id=io4-36SOChYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Our_Cosmic_Habitat-sample-pdf.acsm?id=io4-36SOChYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=io4-36SOChYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;&#39; This highly engaging book explores the fascinating consequences of the answer being &#39;&#39;yes."
+   }
+  }
+ ]
+}

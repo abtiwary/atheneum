@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KKplNQAACAAJ",
+   "etag": "NSMW5DVzCyU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KKplNQAACAAJ",
+   "volumeInfo": {
+    "title": "Wrinkles in Time",
+    "subtitle": "The Imprint of Creation",
+    "authors": [
+     "George Smoot",
+     "Keay Davidson"
+    ],
+    "publishedDate": "1995",
+    "description": "On 23 April 1992, astrophysicist George Smoot announced how he and his team of scientists had found 'ripples in the fabric of space-time' - cosmic wrinkles made in the first trillionth of a second after the cataclysmic moment of creation.Wrinkles in Time is the story of their heroic search for cosmology's Holy Grail. Presenting the science behind the structured violence of the Big Bang, it tells our ultimate history, recounting the implications of a universe whose unfolding is written in its beginnings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0349106029"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780349106021"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Big bang theory"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KKplNQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KKplNQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=KKplNQAACAAJ&dq=isbn:9780349106021&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=KKplNQAACAAJ&dq=isbn:9780349106021&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Wrinkles_in_Time.html?hl=&id=KKplNQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=KKplNQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "On 23 April 1992, astrophysicist George Smoot announced how he and his team of scientists had found &#39;ripples in the fabric of space-time&#39; - cosmic wrinkles made in the first trillionth of a second after the cataclysmic moment of creation ..."
+   }
+  }
+ ]
+}

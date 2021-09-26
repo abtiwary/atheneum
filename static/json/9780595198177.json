@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5jUNAAAACAAJ",
+   "etag": "kekkzSJOxYQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5jUNAAAACAAJ",
+   "volumeInfo": {
+    "title": "Mirror Matter",
+    "subtitle": "Pioneering Antimatter Physics",
+    "authors": [
+     "Robert L. Forward",
+     "Joel Davis"
+    ],
+    "publisher": "Backinprint.Com",
+    "publishedDate": "2001-09-01",
+    "description": "For nearly four decades the fictional spaceships of the \"Star Trek\" universe have been powered by antimatter. But antimatter is not science fiction, and neither is the idea of using it for space propulsion. In Mirror Matter: Pioneering Antimatter Physics, renowned physicist Dr. Robert L. Forward and science writer Joel Davis show why, and how. Mirror Matter is the answer to the skeptics who say that using antimatter is too risky, too difficult, or too expensive. Forward and Davis describe how to make, capture, store, and use antimatter. Mirror Matter explains, step-by-step, how to greatly improve the efficiency and cost-effectiveness of antimatter production; how antimatter can be captured and safely stored until it is used; and how it can improve the propulsion capability of interplanetary rocket engines by one to two orders of magnitude. If the solar system is to one day be our big backyard, it will come about using \"mirror matter\" for space propulsion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595198171"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595198177"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5jUNAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5jUNAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=5jUNAAAACAAJ&dq=isbn:9780595198177&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=5jUNAAAACAAJ&dq=isbn:9780595198177&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Mirror_Matter.html?hl=&id=5jUNAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=5jUNAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "But antimatter is not science fiction, and neither is the idea of using it for space propulsion. In Mirror Matter: Pioneering Antimatter Physics, renowned physicist Dr. Robert L. Forward and science writer Joel Davis show why, and how."
+   }
+  }
+ ]
+}

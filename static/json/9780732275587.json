@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pWtSGwAACAAJ",
+   "etag": "kz7YR79zOko",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pWtSGwAACAAJ",
+   "volumeInfo": {
+    "title": "Steve Waugh",
+    "subtitle": "Captain's Diary 2002",
+    "authors": [
+     "Steve Waugh"
+    ],
+    "publisher": "HarperSports",
+    "publishedDate": "2002",
+    "description": "The ninth annual Steve Waugh cricket diary first published in 1993. Provides an insider's view of the Australian test cricket team and how the issues of the year have impacted players. Waugh examines reasons why his own cricket career has turned downwards, culminating in the loss of the one-day captaincy, and he ponders his future in the game. Includes colour photos throughout as well as match and team statistics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "073227558X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780732275587"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Cricket"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pWtSGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pWtSGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=pWtSGwAACAAJ&dq=isbn:9780732275587&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=pWtSGwAACAAJ&dq=isbn:9780732275587&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Steve_Waugh.html?hl=&id=pWtSGwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=pWtSGwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The ninth annual Steve Waugh cricket diary first published in 1993."
+   }
+  }
+ ]
+}

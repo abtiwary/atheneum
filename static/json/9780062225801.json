@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KaU2ngEACAAJ",
+   "etag": "ClhjR80Xcnc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KaU2ngEACAAJ",
+   "volumeInfo": {
+    "title": "An Appetite for Wonder",
+    "subtitle": "The Making of a Scientist",
+    "authors": [
+     "Richard Dawkins"
+    ],
+    "publisher": "Ecco",
+    "publishedDate": "2014-08-26",
+    "description": "An Appetite for Wonder is a disarming account of world-famous evolutionary biologist Richard Dawkins's early life, from his childhood in colonial East Africa to the writing of one of the twentieth century's seminal works, The Selfish Gene.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0062225804"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062225801"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KaU2ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KaU2ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=KaU2ngEACAAJ&dq=isbn:9780062225801&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=KaU2ngEACAAJ&dq=isbn:9780062225801&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/An_Appetite_for_Wonder.html?hl=&id=KaU2ngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=KaU2ngEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An Appetite for Wonder is a disarming account of world-famous evolutionary biologist Richard Dawkins&#39;s early life, from his childhood in colonial East Africa to the writing of one of the twentieth century&#39;s seminal works, The Selfish Gene."
+   }
+  }
+ ]
+}

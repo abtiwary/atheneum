@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ngUNnwEACAAJ",
+   "etag": "U2T4KBBiB0I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ngUNnwEACAAJ",
+   "volumeInfo": {
+    "title": "The Pearl That Broke Its Shell",
+    "subtitle": "A Novel",
+    "authors": [
+     "Nadia Hashimi"
+    ],
+    "publisher": "William Morrow Paperbacks",
+    "publishedDate": "2015-01-06",
+    "description": "A luminous and unforgettable tale of two women, destiny, and identity in Afghanistan Kabul, 2007: The Taliban rules the streets. With a drug-addicted father and no brothers, Rahima and her sisters can rarely leave the house or attend school. Their only hope lies in the ancient Afghan custom of bacha posh, which allows young Rahima to dress and be treated as a son until she is of marriageable age. As a boy, she has the kind of freedom that was previously unimaginable . . . freedom that will transform her forever. But Rahima is not the first in her family to adopt this unusual custom. A century earlier, her great-great-grandmother Shekiba, left orphaned by an epidemic, saved herself and built a new life in the same way—the change took her on a journey from the deprivation of life in a rural village to the opulence of a king's palace in the bustling metropolis of Kabul. Crisscrossing in time, The Pearl That Broke Its Shell interweaves the stories of these two remarkable women who are separated by a century but share the same courage and dreams.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0062244760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062244765"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ngUNnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ngUNnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=ngUNnwEACAAJ&dq=isbn:9780062244765&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=ngUNnwEACAAJ&dq=isbn:9780062244765&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Pearl_That_Broke_Its_Shell.html?hl=&id=ngUNnwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=ngUNnwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Afghan-American Nadia Hashimi&#39;s literary debut novel is a searing tale of powerlessness, fate, and the freedom to control one&#39;s own fate that combines the cultural flavor and emotional resonance of the works of Khaled Hosseini, Jhumpa ..."
+   }
+  }
+ ]
+}

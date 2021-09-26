@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WJn0PgAACAAJ",
+   "etag": "AX++Xk4P9y8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WJn0PgAACAAJ",
+   "volumeInfo": {
+    "title": "The Grand Design",
+    "authors": [
+     "Stephen Hawking",
+     "Stephen W. Hawking",
+     "Leonard Mlodinow"
+    ],
+    "publishedDate": "2010",
+    "description": "When and how did the universe begin? Why are we here? What is the nature of reality? Is the apparent 'grand design' of our universe evidence for a benevolent creator who set things in motion? Or does science offer another explanation? In The Grand Design, the most recent scientific thinking about the mysteries of the universe is presented, in language marked by both brilliance and simplicity. The Grand Design explains the latest thoughts about model-dependent realism (the idea that there is no one version of reality), and about the multiverse concept of reality in which there are many universes. There are new ideas about the top-down theory of cosmology (the idea that there is no one history of the universe, but that every possible history exists).It concludes with a riveting assessment of m-theory, and discusses whether it is the unified theory Einstein spent a lifetime searching for.This is the first major work in nearly a decade by one of the world's greatest thinkers. A succinct, startling and lavishly illustrated guide to discoveries that are altering our understanding and threatening some of our most cherished belief systems, The Grand Design is a book that will inform - and provoke - like no other.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0593058305"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780593058305"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Cosmology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2026,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WJn0PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WJn0PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=WJn0PgAACAAJ&dq=isbn:9780593058305&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=WJn0PgAACAAJ&dq=isbn:9780593058305&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Grand_Design.html?hl=&id=WJn0PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=WJn0PgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "There are new ideas about the top-down theory of cosmology (the idea that there is no one history of the universe, but that every possible history exists).It concludes with a riveting assessment of m-theory, and discusses whether it is the ..."
+   }
+  }
+ ]
+}

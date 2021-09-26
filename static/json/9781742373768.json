@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nMpL-EiaGHEC",
+   "etag": "u+0b/ajr5fY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nMpL-EiaGHEC",
+   "volumeInfo": {
+    "title": "Star-Craving Mad",
+    "subtitle": "Tales from a Travelling Astronomer",
+    "authors": [
+     "Fred Watson"
+    ],
+    "publisher": "Allen & Unwin",
+    "publishedDate": "2013",
+    "description": "Everything the amateur astronomer needs to know about the history of the universe, from the transit of Venus to the Higgs boson, from ancient Peruvian observatories to the world's largest particle accelerator Many people outside the science world harbor the romantic notion that astronomers spend every night with their eyes clapped to giant telescopes, looking for things. The most frequent question astronomer Fred Watson is asked by members of the public is Have you found anything—recently? Sadly, the answer is usually no. That's because finding new things is only a small part of what astronomers do, compared with investigating things they already know about. People sense that in this, the biggest of big sciences, there might be answers to some of the most profound questions that can be asked: questions about the nature of space and time, about our ultimate origins, the meaning of life, and perhaps even spirituality. Nevertheless, astronomy does provide a broader framework than most sciences for deliberations about issues big and small. And in Fred Watson we have the most witty, funny, and knowledgeable companion to take us on this ride through space, ruminating on Pluto's demotion from planetary status, Peru's ancient sky watchers, sustainable space science, microbes, the sheer pleasure of an eternal quest for knowledge, and maybe, just maybe, the meaning of life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742373768"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1742373763"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 334,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=nMpL-EiaGHEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=nMpL-EiaGHEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=nMpL-EiaGHEC&printsec=frontcover&dq=isbn:9781742373768&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=nMpL-EiaGHEC&dq=isbn:9781742373768&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Star_Craving_Mad.html?hl=&id=nMpL-EiaGHEC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=nMpL-EiaGHEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "And in Fred Watson we have the most witty, funny, and knowledgeable companion to take us on this ride through space, ruminating on Pluto&#39;s demotion from planetary status, Peru&#39;s ancient sky watchers, sustainable space science, microbes, the ..."
+   }
+  }
+ ]
+}

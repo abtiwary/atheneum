@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Xr7hha4Z2b0C",
+   "etag": "le7Y6iDoF0w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Xr7hha4Z2b0C",
+   "volumeInfo": {
+    "title": "Particle Physics: A Very Short Introduction",
+    "authors": [
+     "Frank Close"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "2004-05-13",
+    "description": "Particle Physics provides a compelling introduction to the fundamental constituents of the universe. Beginning with a guide to what matter is made of and how it evolved, the author goes on to describe the techniques used to study it. He discusses quarks, electrons, and the neutrino, exotic matter, and antimatter. He also investigates the forces of nature, accelerators and detectors, and the future of particle physics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192804341"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0192804340"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=Xr7hha4Z2b0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=Xr7hha4Z2b0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=Xr7hha4Z2b0C&dq=isbn:9780192804341&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=Xr7hha4Z2b0C&dq=isbn:9780192804341&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Particle_Physics_A_Very_Short_Introducti.html?hl=&id=Xr7hha4Z2b0C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=Xr7hha4Z2b0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Along the way he provides fascinating insights into how discoveries in particle physics have actually been made, and discusses how our picture of the world has been radically revised in the light of these developments."
+   }
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7S50PgAACAAJ",
+   "etag": "WURTsBHBWWA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7S50PgAACAAJ",
+   "volumeInfo": {
+    "title": "Cosmos",
+    "authors": [
+     "Carl Sagan"
+    ],
+    "publisher": "Abacus (UK)",
+    "publishedDate": "1995",
+    "description": "* Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The story of fifteen billion years of cosmic evolution transforming matter and life into consciousness, of how science and civilisation grew up together, and of the forces and individuals who helped shape modern science. A story told with Carl Sagan's remarkable ability to make scientific ideas both comprehensible and exciting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0349107033"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780349107035"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "Astronomy"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 813,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=7S50PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=7S50PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=7S50PgAACAAJ&dq=isbn:9780349107035&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=7S50PgAACAAJ&dq=isbn:9780349107035&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Cosmos.html?hl=&id=7S50PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=7S50PgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "* Spacecraft missions to nearby planets * The Library of ancient Alexandria * The human brain * Egyptian hieroglyphics * The origin of life * The death of the sun * The evolution of galaxies * The origins of matter, suns and worlds The ..."
+   }
+  }
+ ]
+}

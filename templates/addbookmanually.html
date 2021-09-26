@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<form method="POST" action="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/bookaddmanually">
+<table class="table" id="inputdevice">
+<tr><td><label class="control-label">Title:</label></td><td> <input class="form-control" placeholder="Title" type="text" id="title" name="title"></input></td></tr>
+<tr><td><label class="control-label">Subtitle:</label></td><td> <input class="form-control" placeholder="Subtitle" type="text" id="subtitle" name="subtitle"></input></td></tr>
+<tr><td><label class="control-label">Authors:</label></td><td> <input class="form-control" placeholder="Authors" type="text" id="authors" name="authors"></input></td></tr>
+<tr><td><label class="control-label">Publisher:</label></td><td> <input class="form-control" placeholder="Publisher" type="text" id="publisher" name="publisher"></input></td></tr>
+<tr><td><label class="control-label">PublishedDate:</label></td><td> <input class="form-control" placeholder="PublishedDate e.g. 2016-08-05" type="text" id="publisheddate" name="publisheddate"></input></td></tr>
+<tr><td><label class="control-label">Description:</label></td><td> <input class="form-control" placeholder="Description" type="text" id="description" name="description"></input></td></tr>
+<tr><td><label class="control-label">ISBN10:</label></td><td> <input class="form-control" placeholder="ISBN 10" type="text" id="isbn10" name="isbn10"></input></td></tr>
+<tr><td><label> &nbsp; </label></td> <td><p class="text-info">either ISBN10 or ISBN13 must be supplied for a given book to be entered!</p></td></tr>
+<tr><td><label class="control-label">ISBN13:</label></td><td> <input class="form-control" placeholder="ISBN 13" type="text" id="isbn13" name="isbn13"></input></td></tr>
+<tr><td><label class="control-label">PageCount:</label></td><td> <input class="form-control" placeholder="PageCount" type="text" id="pagecount" name="pagecount"></input></td></tr>
+<tr><td><label class="control-label">Categories:</label></td><td> <input class="form-control" placeholder="Categories" type="text" id="categories" name="categories"></input></td></tr>
+<tr><td><label class="control-label">SmallThumbnail:</label></td><td> <input class="form-control" placeholder="SmallThumbnail e.g. static/images/isbn_small.png" type="text" id="smallthumbnail" name="smallthumbnail"></input></td></tr>
+<tr><td><label class="control-label">Thumbnail:</label></td><td> <input class="form-control" placeholder="Thumbnail e.g. static/images/isbn.png" type="text" id="thumbnail" name="thumbnail"></input></td></tr>
+</table>
+<input class="btn btn-primary" type="submit" value="Submit"></input>
+</form>
+
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+  LoadJSON(function(response){
+    json_arrays = JSON.parse(response);
+    actb(document.getElementById('title'), json_arrays["words"]);
+    actb(document.getElementById('subtitle'), json_arrays["words"]);
+    actb(document.getElementById('authors'), json_arrays["words"]);
+    actb(document.getElementById('publisher'), json_arrays["words"]);
+    actb(document.getElementById('publisheddate'), json_arrays["words"]);
+    actb(document.getElementById('description'), json_arrays["words"]);
+    actb(document.getElementById('isbn10'), json_arrays["words"]);
+    actb(document.getElementById('isbn13'), json_arrays["words"]);
+    actb(document.getElementById('pagecount'), json_arrays["words"]);
+    actb(document.getElementById('categories'), json_arrays["words"]);
+    actb(document.getElementById('smallthumbnail'), json_arrays["words"]);
+    actb(document.getElementById('thumbnail'), json_arrays["words"]);
+  });
+}
+</script>
+{% endblock %}

@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vLAFuwAACAAJ",
+   "etag": "yE+LCBdywgY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vLAFuwAACAAJ",
+   "volumeInfo": {
+    "title": "From 0 to Infinity in 26 Centuries",
+    "subtitle": "The Extraordinary Story of Maths",
+    "authors": [
+     "Chris Waring"
+    ],
+    "publisher": "Michael O'Mara Books",
+    "publishedDate": "2012",
+    "description": "Packed full of fascinating stories and amazing facts about the history of maths, from the stone age to the internet age. Looks at the extraordinary people who have made major discoveries in the field of maths and how their ideas have shaped the world. The perfect gift for lovers of mathematics and history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843178737"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843178736"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=vLAFuwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=vLAFuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=vLAFuwAACAAJ&dq=isbn:9781843178736&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=vLAFuwAACAAJ&dq=isbn:9781843178736&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/From_0_to_Infinity_in_26_Centuries.html?hl=&id=vLAFuwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=vLAFuwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Packed full of fascinating stories and amazing facts about the history of maths, from the stone age to the internet age."
+   }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TMnuNquN2RgC",
+   "etag": "X5s9Q7XviJE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TMnuNquN2RgC",
+   "volumeInfo": {
+    "title": "Phantoms in the Brain",
+    "subtitle": "Probing the Mysteries of the Human Mind",
+    "authors": [
+     "V. S. Ramachandran"
+    ],
+    "publisher": "Harper Perennial",
+    "publishedDate": "1999-08-18",
+    "description": "Neuroscientist V.S. Ramachandran is internationally renowned for uncovering answers to the deep and quirky questions of human nature that few scientists have dared to address. His bold insights about the brain are matched only by the stunning simplicity of his experiments -- using such low-tech tools as cotton swabs, glasses of water and dime-store mirrors. In Phantoms in the Brain, Dr. Ramachandran recounts how his work with patients who have bizarre neurological disorders has shed new light on the deep architecture of the brain, and what these findings tell us about who we are, how we construct our body image, why we laugh or become depressed, why we may believe in God, how we make decisions, deceive ourselves and dream, perhaps even why we're so clever at philosophy, music and art. Some of his most notable cases: A woman paralyzed on the left side of her body who believes she is lifting a tray of drinks with both hands offers a unique opportunity to test Freud's theory of denial. A man who insists he is talking with God challenges us to ask: Could we be \"wired\" for religious experience? A woman who hallucinates cartoon characters illustrates how, in a sense, we are all hallucinating, all the time. Dr. Ramachandran's inspired medical detective work pushes the boundaries of medicine's last great frontier -- the human mind -- yielding new and provocative insights into the \"big questions\" about consciousness and the self.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0688172172"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780688172176"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=TMnuNquN2RgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=TMnuNquN2RgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=TMnuNquN2RgC&dq=isbn:9780688172176&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=TMnuNquN2RgC&dq=isbn:9780688172176&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Phantoms_in_the_Brain.html?hl=&id=TMnuNquN2RgC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=TMnuNquN2RgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In Phantoms in the Brain, Dr. Ramachandran recounts how his work with patients who have bizarre neurological disorders has shed new light on the deep architecture of the brain, and what these findings tell us about who we are, how we ..."
+   }
+  }
+ ]
+}

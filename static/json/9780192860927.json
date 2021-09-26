@@ -1,0 +1,146 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WkHO9HI7koEC",
+   "etag": "VVzl2TdwHmc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WkHO9HI7koEC",
+   "volumeInfo": {
+    "title": "The Selfish Gene",
+    "authors": [
+     "Richard Dawkins"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1989",
+    "description": "An ethologist shows man to be a gene machine whose world is one of savage competition and deceit",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192860925"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192860927"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2643,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WkHO9HI7koEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WkHO9HI7koEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=WkHO9HI7koEC&printsec=frontcover&dq=isbn:9780192860927&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=WkHO9HI7koEC&dq=isbn:9780192860927&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Selfish_Gene.html?hl=&id=WkHO9HI7koEC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Selfish_Gene-sample-epub.acsm?id=WkHO9HI7koEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=WkHO9HI7koEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An ethologist shows man to be a gene machine whose world is one of savage competition and deceit"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q6ZwoAEACAAJ",
+   "etag": "12/eqqnteRA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q6ZwoAEACAAJ",
+   "volumeInfo": {
+    "title": "The Selfish Gene: stability and the selfish machine; 6. Genesmanship; 7. Family planning; 8. Battle of the generations; 9. Battle of the sexes; 10. You scratch my back, I'll ride on yours; 11. Memes: the new replicators; 12. Nice guys finish first; 13. The long reach of the gene; Endnotes; Updated bibliography; Index and key to bibliography",
+    "authors": [
+     "Richard Dawkins"
+    ],
+    "publishedDate": "1999",
+    "description": "Dawkin's theory that genes may reach outside the bodies in which they sit and manipulate other individuals is recapitulated in this book, this edition of which has two new chapters - a summary of the arguments and a new argument on the co-operation between the selfish genes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192860925"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192860927"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Animal behavior"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q6ZwoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q6ZwoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=q6ZwoAEACAAJ&dq=isbn:9780192860927&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=q6ZwoAEACAAJ&dq=isbn:9780192860927&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Selfish_Gene_stability_and_the_selfi.html?hl=&id=q6ZwoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=q6ZwoAEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dawkin&#39;s theory that genes may reach outside the bodies in which they sit and manipulate other individuals is recapitulated in this book, this edition of which has two new chapters - a summary of the arguments and a new argument on the co ..."
+   }
+  }
+ ]
+}

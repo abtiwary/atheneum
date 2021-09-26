@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "d-yIKVLpHz8C",
+   "etag": "7pekY3LRG5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d-yIKVLpHz8C",
+   "volumeInfo": {
+    "title": "3001",
+    "subtitle": "The Final Odyssey",
+    "authors": [
+     "Arthur Charles Clarke"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "1997",
+    "description": "Now approaching the millennium, the light of Lucifer is extinguished and for the second time in four million years, the Monolith awakes. The limitless power of an alien technology has decided what part humanity must play in the evolution of the galaxy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780586066249"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0586066241"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Human-alien encounters"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 20,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=d-yIKVLpHz8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=d-yIKVLpHz8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=d-yIKVLpHz8C&dq=isbn:9780586066249&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=d-yIKVLpHz8C&dq=isbn:9780586066249&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/3001.html?hl=&id=d-yIKVLpHz8C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=d-yIKVLpHz8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Now approaching the millennium, the light of Lucifer is extinguished and for the second time in four million years, the Monolith awakes."
+   }
+  }
+ ]
+}

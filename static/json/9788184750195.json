@@ -1,0 +1,81 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "G52QiqxNKp4C",
+   "etag": "SZHCDc2/Xiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G52QiqxNKp4C",
+   "volumeInfo": {
+    "title": "Difficulty of Being Good",
+    "authors": [
+     "Gurcharan Das"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2009-08-14",
+    "description": "Why be good? What exactly is Dharma? How does one practise it; and to what effect? Gurcharan Das’s superb exposition of the dilemmas and ambiguities inherent in the Mahabharata shows us how we can come to terms with the uncertain ethics of the world today; a world that is uncannily similar to that of the great epic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788184750195"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8184750196"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G52QiqxNKp4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G52QiqxNKp4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=G52QiqxNKp4C&dq=isbn:9788184750195&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=G52QiqxNKp4C&dq=isbn:9788184750195&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Difficulty_of_Being_Good.html?hl=&id=G52QiqxNKp4C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=G52QiqxNKp4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gurcharan Das’s superb exposition of the dilemmas and ambiguities inherent in the Mahabharata shows us how we can come to terms with the uncertain ethics of the world today; a world that is uncannily similar to that of the great epic."
+   }
+  }
+ ]
+}

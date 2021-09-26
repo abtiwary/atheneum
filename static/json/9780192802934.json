@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "J-rIO6BBh6IC",
+   "etag": "kxkBM6hxx7k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J-rIO6BBh6IC",
+   "volumeInfo": {
+    "title": "The Oxford History of Ancient Egypt",
+    "authors": [
+     "Ian Shaw"
+    ],
+    "publisher": "Oxford Paperbacks",
+    "publishedDate": "2002-03-14",
+    "description": "The Oxford Illustrated History of Ancient Egypt describes the emergence and development of the distinctive civilization of the ancient Egyptians, from their prehistoric origins to their conquest by the Persians, Greeks, and Romans. It describes the changing nature of life and death in the Nile valley, including some of the earliest masterpieces of art, architecture, and literature in the ancient world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192802933"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192802934"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J-rIO6BBh6IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J-rIO6BBh6IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=J-rIO6BBh6IC&dq=isbn:9780192802934&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=J-rIO6BBh6IC&dq=isbn:9780192802934&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Oxford_History_of_Ancient_Egypt.html?hl=&id=J-rIO6BBh6IC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=J-rIO6BBh6IC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Oxford Illustrated History of Ancient Egypt describes the emergence and development of the distinctive civilization of the ancient Egyptians, from their prehistoric origins to their conquest by the Persians, Greeks, and Romans."
+   }
+  }
+ ]
+}

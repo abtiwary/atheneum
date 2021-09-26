@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block content %}
+<table id="links" class="table" align="center">
+    <tr><td><a href="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/showall">Show All</a></td></tr>
+    <tr><td><a href="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/addbook">Add a book</a></td></tr>
+    <tr><td><a href="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/search">Search</a></td></tr>
+</table>
+
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+}
+</script>
+{% endblock %}

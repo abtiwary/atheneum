@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rrraAAAAMAAJ",
+   "etag": "cf4hrRZf1No",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rrraAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Science",
+    "subtitle": "A History, 1543-2001",
+    "authors": [
+     "John Gribbin"
+    ],
+    "publisher": "Allan Lane",
+    "publishedDate": "2002",
+    "description": "An accessible narrative history, focusing on the way in which science has progressed by building on what went before, and also on the very close relationship between the progress of science and improved technology.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015055875200"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 646,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rrraAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rrraAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=rrraAAAAMAAJ&dq=isbn:9780713995039&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=rrraAAAAMAAJ&dq=isbn:9780713995039&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Science.html?hl=&id=rrraAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=rrraAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An accessible narrative history, focusing on the way in which science has progressed by building on what went before, and also on the very close relationship between the progress of science and improved technology."
+   }
+  }
+ ]
+}

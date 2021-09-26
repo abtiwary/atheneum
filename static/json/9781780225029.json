@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0TeVw2PMUp4C",
+   "etag": "ALBH2LJoWOw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0TeVw2PMUp4C",
+   "volumeInfo": {
+    "title": "The Double Helix",
+    "authors": [
+     "James Watson"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2012-09-06",
+    "description": "The story of the most significant biological breakthrough of the century - the discovery of the structure of DNA. 'It is a strange model and embodies several unusual features. However, since DNA is an unusual substance, we are not hesitant in being bold' By elucidating the structure of DNA, the molecule underlying all life, Francis Crick and James Watson revolutionised biochemistry. At the time, Watson was only 24. His uncompromisingly honest account of those heady days lifts the lid on the real world of great scientists, with their very human faults and foibles, their petty rivalries and driving ambition. Above all, he captures the extraordinary excitement of their desperate efforts to beat their rivals at King's College to the solution to one of the great enigmas of the life sciences.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781780225029"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1780225024"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0TeVw2PMUp4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0TeVw2PMUp4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=0TeVw2PMUp4C&printsec=frontcover&dq=isbn:9781780225029&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0TeVw2PMUp4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0TeVw2PMUp4C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0TeVw2PMUp4C&rdid=book-0TeVw2PMUp4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Double_Helix-sample-epub.acsm?id=0TeVw2PMUp4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=0TeVw2PMUp4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The story of the most significant biological breakthrough of the century - the discovery of the structure of DNA."
+   }
+  }
+ ]
+}

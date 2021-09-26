@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<form method="POST" action="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/deviceadd">
+<table class="table" id="inputdevice">
+<tr><td>Manufacturer: </td><td> <input type="text" id="manufacturer" name="manufacturer"></input></td></tr>
+<tr><td>Model: </td><td> <input type="text" id="model" name="model"></input></td></tr>
+<tr><td>OS: </td><td> <input type="text" id="os" name="os"></input></td></tr>
+<tr><td>Type: </td><td> <input type="text" id="type" name="type"></input></td></tr>
+<tr><td>IMEI: </td><td> <input type="text" id="imei" name="imei"></input></td></tr>
+<tr><td>Serial: </td><td> <input type="text" id="serial" name="serial"></input></td></tr>
+<tr><td>CPU Type: </td><td> <input type="text" id="cputype" name="cputype"></input></td></tr>
+<tr><td>CPU Family: </td><td> <input type="text" id="cpufamily" name="cpufamily"></input></td></tr>
+<tr><td>Location: </td><td> <input type="text" id="location" name="location"></input></td></tr>
+<tr><td>Availability: </td><td>
+<select class="selectpicker" name="availability">
+  <option>Available</option>
+  <option>Borrowed</option>
+</select></td></tr>
+<tr><td>Borrower: </td><td> <input type="text" id="borrower" name="borrower"></input></td></tr>
+<tr><td>Checker: </td><td> <input type="text" id="checker" name="checker"></input></td></tr>
+<tr><td>Comments: </td><td> <input type="text" id="comments" name="comments"></input></td></tr>
+</table>
+<input type="submit" value="Submit"></input>
+</form>
+
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+  LoadJSON(function(response){
+    json_arrays = JSON.parse(response);
+    actb(document.getElementById('manufacturer'), json_arrays["words"]);
+    actb(document.getElementById('model'), json_arrays["words"]);
+    actb(document.getElementById('os'), json_arrays["words"]);
+    actb(document.getElementById('type'), json_arrays["words"]);
+    actb(document.getElementById('imei'), json_arrays["words"]);
+    actb(document.getElementById('serial'), json_arrays["words"]);
+    actb(document.getElementById('cputype'), json_arrays["words"]);
+    actb(document.getElementById('cpufamily'), json_arrays["words"]);
+    actb(document.getElementById('location'), json_arrays["words"]);
+    actb(document.getElementById('borrower'), json_arrays["words"]);
+    actb(document.getElementById('checker'), json_arrays["words"]);
+    actb(document.getElementById('comments'), json_arrays["words"]);
+  });
+}
+</script>
+{% endblock %}

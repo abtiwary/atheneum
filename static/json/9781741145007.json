@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ifZiE9Dq2p8C",
+   "etag": "BTB1VDDcI3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ifZiE9Dq2p8C",
+   "volumeInfo": {
+    "title": "Hegemony Or Survival",
+    "subtitle": "America's Quest for Global Dominance",
+    "authors": [
+     "Noam Chomsky"
+    ],
+    "publisher": "Allen & Unwin",
+    "publishedDate": "2004",
+    "description": "From the world's foremost intellectual activist, an irrefutable analysis of America's pursuit of total world domination and the catastrophic consequences that are sure to follow - now with a new afterword.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741145007"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741145007"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Imperialism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=ifZiE9Dq2p8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=ifZiE9Dq2p8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=ifZiE9Dq2p8C&printsec=frontcover&dq=isbn:9781741145007&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=ifZiE9Dq2p8C&dq=isbn:9781741145007&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Hegemony_Or_Survival.html?hl=&id=ifZiE9Dq2p8C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=ifZiE9Dq2p8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "From the world&#39;s foremost intellectual activist, an irrefutable analysis of America&#39;s pursuit of total world domination and the catastrophic consequences that are sure to follow - now with a new afterword."
+   }
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9jJyQgAACAAJ",
+   "etag": "20z+SxMh9/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9jJyQgAACAAJ",
+   "volumeInfo": {
+    "title": "Other Worlds",
+    "authors": [
+     "Paul Davies"
+    ],
+    "publishedDate": "1988",
+    "description": "Paul Davies explains the significance of the amazing quantum universe, where fact is stranger than any science fiction. He takes us into a world where commonsense notions of space, time, and causality must be left behind as the realm of solid matter dissolves into vibrating patterns of ghostly energy, and where mind and matter are interwoven in a subtle and holistic manner. An Australian physicist and author of GOD AND THE NEW PHYSICS, Davies writes for the lay reader in simple language.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140228012"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140228014"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Quantum theory"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=9jJyQgAACAAJ&dq=isbn:9780140228014&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=9jJyQgAACAAJ&dq=isbn:9780140228014&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Other_Worlds.html?hl=&id=9jJyQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=9jJyQgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

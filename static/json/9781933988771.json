@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EttPPgAACAAJ",
+   "etag": "5ws5nzvHufc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EttPPgAACAAJ",
+   "volumeInfo": {
+    "title": "C++ Concurrency in Action",
+    "subtitle": "Practical Multithreading",
+    "authors": [
+     "Anthony Williams"
+    ],
+    "publisher": "Manning Publications",
+    "publishedDate": "2012",
+    "description": "With the new C++ Standard and Technical Report 2 (TR2), multi-threading is coming to C++ in a big way. TR2 will provide higher-level synchronization facilities that allow for a much greater level of abstraction, and make programming multi-threaded applications simpler and safer. Concurrent programming is required if programmers are to take advantage of the multi-core microprocessors increasingly available from Intel and others. The new standard for C++ has extensions to the language that make concurrent programming more accessible to regular developers. As a guide and reference to the new concurrency features in the upcoming C++ Standard and TR2, this book is invaluable for existing programmers familiar with writing multi-threaded code in C++ using platform-specific APIs, or in other languages, as well as C++ programmers who have never written multithreaded code before.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1933988770"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781933988771"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 506,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EttPPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EttPPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=EttPPgAACAAJ&dq=isbn:9781933988771&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=EttPPgAACAAJ&dq=isbn:9781933988771&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/C++_Concurrency_in_Action.html?hl=&id=EttPPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=EttPPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As a guide and reference to the new concurrency features in the upcoming C++ Standard and TR2, this book is invaluable for existing programmers familiar with writing multi-threaded code in C++ using platform-specific APIs, or in other ..."
+   }
+  }
+ ]
+}

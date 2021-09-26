@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZP4c1ke3NzwC",
+   "etag": "Xtw+YId0CGU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZP4c1ke3NzwC",
+   "volumeInfo": {
+    "title": "The Female Brain",
+    "authors": [
+     "Louann Brizendine"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2008-01-02",
+    "description": "In this groundbreaking book, Dr Louann Brizendine describes the uniquely flexible structure of the female brain and its constant, dynamic state of change - the key difference that separates it from that of the male - and reveals how women think, what they value, how they communicate, and whom they'll love. She also reveals the neurological explanations behind why... * A woman remembers fights that a man insists never happened... * Thoughts about sex enter a woman's brain perhaps once every couple of days, but mayenter a man's brain up to once every minutea * A woman's brain goes on high alert during pregnancy - and stays that way long after giving birth... * A woman over 50 is more likely to initiate divorce than a mana * Women tend to know what people are feeling, while men can't spot an emotion unless someone cries or threatens them with bodily harm! Accessible, fun and compelling, and based on more than three decades of research, The Female Brain will help women to better understand themselves - and the men in their lives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553818499"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "055381849X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.13.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZP4c1ke3NzwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZP4c1ke3NzwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=ZP4c1ke3NzwC&printsec=frontcover&dq=isbn:9780553818499&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=ZP4c1ke3NzwC&dq=isbn:9780553818499&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Female_Brain.html?hl=&id=ZP4c1ke3NzwC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=ZP4c1ke3NzwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this groundbreaking book, Dr Louann Brizendine describes the uniquely flexible structure of the female brain and its constant, dynamic state of change - the key difference that separates it from that of the male - and reveals how women ..."
+   }
+  }
+ ]
+}

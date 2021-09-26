@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bpi4BgAAQBAJ",
+   "etag": "JxjiJqrpECk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bpi4BgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Murder of Tutankhamen",
+    "authors": [
+     "Bob Brier"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2005-06-07",
+    "description": "One of the nation’s most respected Egyptologists examines the compelling mystery behind the death of King Tutankhamen. “Can the truth be known about a possible murder that would have been committed 3,000 years ago? Respected Egyptologist Bob Brier, specialist in paleopathology and host of the Learning Channel’s acclaimed series The Great Egyptians, believes it can. Skillfully combining known historical events with evidence gathered by advanced technologies, Brier has re-created the suspenseful story of religious upheaval and political intrigue that likely resulted in the murder of the teenage king Tutankhamen. . . . Breathing life into old bones and artifacts, Brier examines all available evidence to arrive at ‘the most reasonable explanation for a tragic event,’ an explanation that, he says, is testable through the use of current technology on the mummified remains of the ancient king.”—Booklist (starred review) “Brier's 3,000-year-old mystery steadily draws the reader into the curious and exotic world of Egyptology. . . . By the time you finish his intrigue-filled reconstruction of Tutankhamen’s world—which includes such elements as teenage love, religious heresy, the Orwellian rewriting of history and the desperate pleas of a terrified queen—you risk coming to care a good deal about the young Pharaoh’s fate. . . . We can be grateful to Dr. Brier for showing that even a mystery dating to the fourteenth century B.C. is subject to engrossing examination.”—The New York Times INCLUDES 16 PAGES OF PHOTOS",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101664759"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101664754"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bpi4BgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bpi4BgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=bpi4BgAAQBAJ&dq=isbn:9781101664759&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=bpi4BgAAQBAJ&dq=isbn:9781101664759&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Murder_of_Tutankhamen.html?hl=&id=bpi4BgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=bpi4BgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Skillfully combining known historical events with evidence gathered by advanced technologies, Brier has re-created the suspenseful story of religious upheaval and political intrigue that likely resulted in the murder of the teenage king ..."
+   }
+  }
+ ]
+}

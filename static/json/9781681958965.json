@@ -1,0 +1,100 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UJo6DAAAQBAJ",
+   "etag": "eP9dw361X9A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UJo6DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Siddhartha",
+    "authors": [
+     "Hermann Hesse"
+    ],
+    "publisher": "Xist Publishing",
+    "publishedDate": "2016-03-24",
+    "description": "Siddhartha by Hermann Hesse from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “I have always believed, and I still believe, that whatever good or bad fortune may come our way we can always give it meaning and transform it into something of value.” ― Hermann Hesse, Siddhartha Siddhartha is an inspirational novel about a young man who seeks wisdom, peace and understanding.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781681958965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1681958961"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 123,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=UJo6DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=UJo6DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=UJo6DAAAQBAJ&printsec=frontcover&dq=isbn:9781681958965&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=UJo6DAAAQBAJ&dq=isbn:9781681958965&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Siddhartha.html?hl=&id=UJo6DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.34,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 1.34,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "http://books.google.com.au/books?id=UJo6DAAAQBAJ&dq=isbn:9781681958965&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1340000.0,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1340000.0,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Siddhartha-sample-epub.acsm?id=UJo6DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Siddhartha-sample-pdf.acsm?id=UJo6DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=UJo6DAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Siddhartha by Hermann Hesse from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “I have always believed, and I still believe, that whatever good or bad ..."
+   }
+  }
+ ]
+}

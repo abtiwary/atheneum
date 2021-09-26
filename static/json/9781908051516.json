@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Kv7RygAACAAJ",
+   "etag": "ikvZPz2EUN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kv7RygAACAAJ",
+   "volumeInfo": {
+    "title": "Chasing Sachin",
+    "authors": [
+     "Adam Carroll-Smith"
+    ],
+    "publisher": "Pitch Pub",
+    "publishedDate": "2011-11-01",
+    "description": "The story of one obsessive fan’s unlikely ambition: to bowl just one ball at his childhood hero, Sachin Tendulkar. From the very first time he’d ever watched the \"Little Master\" bat, as a 12-year-old boy, Adam Carroll-Smith had been transfixed. He dreamed not just of bowling to Tendulkar, but of actually knocking over his off stump. Just one problem: he was never really much of a cricketer. However, determined not to let such a small detail stand in his way—and eager to settle an old score with a childhood chum—Carroll-Smith earnestly set about achieving the unthinkable during India’s 2011 tour of England. A hilarious summer ensued as he attempted to live out his fantasy, fending off the attentions of over-zealous fellow fans, crazed Italian spiritualists and his meddling best friend—not to mention the dozens of blazered officials and luminous-jacketed stewards standing between him and his hero.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1908051515"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908051516"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=Kv7RygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=Kv7RygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=Kv7RygAACAAJ&dq=isbn:9781908051516&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=Kv7RygAACAAJ&dq=isbn:9781908051516&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Chasing_Sachin.html?hl=&id=Kv7RygAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=Kv7RygAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The story of one obsessive fan’s unlikely ambition: to bowl just one ball at his childhood hero, Sachin Tendulkar."
+   }
+  }
+ ]
+}

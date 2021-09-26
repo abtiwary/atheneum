@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zYB5Yu6TQrcC",
+   "etag": "3YTHZCtjEeM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zYB5Yu6TQrcC",
+   "volumeInfo": {
+    "title": "Sky Walking",
+    "subtitle": "An Astronaut's Memoir",
+    "authors": [
+     "Thomas D. Jones"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2007-01-30",
+    "description": "Most books about the saints are thin on women, especially contemporary women. Even Butler's LIVES OF THE SAINTS, the 'bible' of this category, lists far more men than women. No book about the saints could ignore such beloved early martyrs as Agnes of Rome and Lucy of Syracuse but this new book will introduce readers to many new women who have been canonized or beatified by Pope John Paul II. Of the more than 377 women mentioned in the book, 159 have been canonized or beatified since 1979. Approximately 100 of them lived in the twentieth century. This new book is also unique in that it uses the saint's own words wherever possible, taking advantage of newly discovered archives, memoirs and other primary sources. It will contain resources such as internet shrines and other websites, as well as little–known information on the canonization process.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060884369"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0060884363"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=zYB5Yu6TQrcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=zYB5Yu6TQrcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=zYB5Yu6TQrcC&dq=isbn:9780060884369&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=zYB5Yu6TQrcC&dq=isbn:9780060884369&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Sky_Walking.html?hl=&id=zYB5Yu6TQrcC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=zYB5Yu6TQrcC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Approximately 100 of them lived in the twentieth century. This new book is also unique in that it uses the saint&#39;s own words wherever possible, taking advantage of newly discovered archives, memoirs and other primary sources."
+   }
+  }
+ ]
+}

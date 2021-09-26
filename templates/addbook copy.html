@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<form method="POST" action="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/bookadd">
+<table class="table" id="inputbook">
+<tr><td>ISBN: </td><td> <input type="text" id="isbn" name="isbn"></input></td></tr>
+</table>
+<input type="submit" value="Submit"></input>
+</form>
+
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+  LoadJSON(function(response){
+    json_arrays = JSON.parse(response);
+    actb(document.getElementById('isbn'), json_arrays["words"]);
+  });
+}
+</script>
+{% endblock %}

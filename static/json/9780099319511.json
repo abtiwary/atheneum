@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1SLQ2wp21FsC",
+   "etag": "hTSE6XiGJ9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1SLQ2wp21FsC",
+   "volumeInfo": {
+    "title": "The Andromeda Strain",
+    "authors": [
+     "Michael Crichton"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "1993",
+    "description": "Five prominent biophysicists give the United States government an urgent warning: sterilisation procedures for returning space probes may be inadequate to guarantee uncontaminated re-entry to the atmosphere. Two years later, Project Scoop sends seventeen satellites into the fringes of space in order to 'collect organisms and dust for study'. Then a probe falls to the earth, landing in a desolate area of northeastern Arizona. A little while later, in the nearby town of Piedmont, bodies are discovered heaped and flung across the ground, faces locked in frozen surprise. But the terror has only just begun, because when they try to find the cause of death, the scientists don't realise just what kind of unearthly danger they are dealing with... Brilliantly filmed by Robert Wise in 1971, The Andromeda Strain was the first book to introduce Michael Crichton's audacious combination of believable plots and white-knuckled excitement to a wide audience.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780099319511"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0099319519"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.13.6.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=1SLQ2wp21FsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=1SLQ2wp21FsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=1SLQ2wp21FsC&printsec=frontcover&dq=isbn:9780099319511&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=1SLQ2wp21FsC&dq=isbn:9780099319511&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Andromeda_Strain.html?hl=&id=1SLQ2wp21FsC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=1SLQ2wp21FsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Brilliantly filmed by Robert Wise in 1971, The Andromeda Strain was the first book to introduce Michael Crichton&#39;s audacious combination of believable plots and white-knuckled excitement to a wide audience."
+   }
+  }
+ ]
+}

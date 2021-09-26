@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4vRbPgAACAAJ",
+   "etag": "CPNRMeVnAo4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4vRbPgAACAAJ",
+   "volumeInfo": {
+    "title": "The Little Prince [Pb]",
+    "authors": [
+     "Antoine de Saint-Exupéry"
+    ],
+    "publishedDate": "2007-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8170262259"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788170262251"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 107,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories, French"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1000,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=4vRbPgAACAAJ&dq=isbn:9788170262251&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=4vRbPgAACAAJ&dq=isbn:9788170262251&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Little_Prince_Pb.html?hl=&id=4vRbPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=4vRbPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

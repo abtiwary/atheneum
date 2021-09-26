@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block content %}
+<form method="POST" action="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/submitsearch">
+<table id="links" class="table" align="center">
+    <tr><td><input class="form-control" placeholder="Search" type="text" id="searchtext" name="searchtext"></input></td></tr>
+    <tr><td>
+      <select class="form-control selectpicker" name="column">
+        <option>ID</option>
+        <option>Title</option>
+        <option>Subtitle</option>
+        <option>Authors</option>
+        <option>Publisher</option>
+        <option>PublishedDate</option>
+        <option>Description</option>
+        <option>ISBN10</option>
+        <option>ISBN13</option>
+        <option>PageCount</option>
+        <option>Categories</option>
+      </select>
+    </td></tr>
+    <tr><td><input class="btn btn-primary" type="submit" value="Search"></input></td></tr>
+</table>
+</form>
+
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+  LoadJSON(function(response){
+    json_arrays = JSON.parse(response);
+    actb(document.getElementById('searchtext'), json_arrays["words"]);
+  });
+}
+</script>
+{% endblock %}

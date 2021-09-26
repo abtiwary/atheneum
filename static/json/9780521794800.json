@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Ox5hCOc9A2AC",
+   "etag": "7nGmGK+5UW4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ox5hCOc9A2AC",
+   "volumeInfo": {
+    "title": "Our Cosmic Origins",
+    "subtitle": "From the Big Bang to the Emergence of Life and Intelligence",
+    "authors": [
+     "A. H. Delsemme"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2001-01-25",
+    "description": "Our Cosmic Origins, first published in 1998, traces the remarkable story of the emergence of life and intelligence right through the complex evolutionary history of the Universe. Armand Delsemme weaves together a rich tapestry of science, bringing together cosmology, astronomy, geology, biochemistry and biology in this wide-ranging book. In following the complex, chronological story, we discover how the first elements formed in the early Universe, how stars and planets were born, how the first bacteria evolved towards a plethora of plants and animals, and how the coupling of the eye and brain led to the development of self-awareness and, ultimately, intelligence. Professor Delsemme concludes with the tantalising suggestion that the existence of alien life and intelligence is likely, and examines our chances of contacting it. This provocative book provides the general reader with an accessible and wide-ranging account of how life evolved on Earth and how likely it is to exist elsewhere in the Universe.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521794803"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521794800"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ox5hCOc9A2AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ox5hCOc9A2AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=Ox5hCOc9A2AC&printsec=frontcover&dq=isbn:9780521794800&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=Ox5hCOc9A2AC&dq=isbn:9780521794800&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Our_Cosmic_Origins.html?hl=&id=Ox5hCOc9A2AC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=Ox5hCOc9A2AC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This provocative book provides the general reader with an accessible and wide-ranging account of how life evolved on Earth and how likely it is to exist elsewhere in the Universe."
+   }
+  }
+ ]
+}

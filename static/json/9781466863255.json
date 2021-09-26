@@ -1,0 +1,80 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ewpOAgAAQBAJ",
+   "etag": "qIJJWO2USlM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ewpOAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Tutankhamen",
+    "subtitle": "The Life and Death of the Boy-King",
+    "authors": [
+     "Christine El Mahdy"
+    ],
+    "publisher": "St. Martin's Press",
+    "publishedDate": "2014-01-28",
+    "description": "When Tutankhamen's tomb was discovered in 1922, even the most experienced archaeologists joined the international community in marveling at the incredible wealth--and seemingly bizarre rituals--of ancient Egypt. What kind of society could produce such spectacular treasures only to bury them forever? Lost in a frenzy of speculation--anthropological, scientific, and commercial--was Tutankhamen himself. Thirty-five hundred years ago, the mightiest empire on Earth crowned a boy as its king, then worshipped him as a god. Nine years later, he was dead. Despite the young monarch's almost universal recognition in death, Egyptologists know very little about his life. Traditional histories, founded on incomplete investigation and academic dogma, shed almost no light on the details of a life as complicated and as fascinating as it was short. In Tutankhamen: The Life and Death of the Boy-King, Christine El Mahdy finally delivers a coherent portrait of King Tut's life and its historical significance. Based on stunning tomb records, lost since their discovery, this revolutionary biography begins to answer one of the twentieth century's most compelling archaeological mysteries: Who was Tutankhamen?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781466863255"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1466863250"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ewpOAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ewpOAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=ewpOAgAAQBAJ&dq=isbn:9781466863255&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=ewpOAgAAQBAJ&dq=isbn:9781466863255&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Tutankhamen.html?hl=&id=ewpOAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=ewpOAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In Tutankhamen: The Life and Death of the Boy-King, Christine El Mahdy finally delivers a coherent portrait of King Tut&#39;s life and its historical significance."
+   }
+  }
+ ]
+}

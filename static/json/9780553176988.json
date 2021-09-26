@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "u5daSQAACAAJ",
+   "etag": "u1SVEV0Rb1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u5daSQAACAAJ",
+   "volumeInfo": {
+    "title": "A Brief History of Time",
+    "subtitle": "From the Big Bang to Black Holes",
+    "authors": [
+     "Stephen W. Hawking"
+    ],
+    "publisher": "Bantam",
+    "publishedDate": "1989-01-01",
+    "description": "Was there a beginning of time? Could time run backwards? Is the universe infinite or does it have boundaries? These are just some of the questions considered in an internationally acclaimed masterpiece by one of the world's greatest thinkers. It begins by reviewing the great theories of the cosmos from Newton to Einstein, before delving into the secrets which still lie at the heart of space and time, from the Big Bang to black holes, via spiral galaxies and strong theory. To this day A Brief History of Time remains a staple of the scientific canon, and its succinct and clear language continues to introduce millions to the universe and its wonders.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0553176986"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553176988"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Astronomy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=u5daSQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=u5daSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=u5daSQAACAAJ&dq=isbn:9780553176988&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=u5daSQAACAAJ&dq=isbn:9780553176988&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/A_Brief_History_of_Time.html?hl=&id=u5daSQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=u5daSQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "These are just some of the questions considered in an internationally acclaimed masterpiece which begin by reviewing the great theories of the cosmos from Newton to Einstein, before delving into the secrets which still lie at the heart of ..."
+   }
+  }
+ ]
+}

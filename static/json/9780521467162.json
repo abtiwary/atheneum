@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "moyTl2RjzJUC",
+   "etag": "PicffovOdU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/moyTl2RjzJUC",
+   "volumeInfo": {
+    "title": "Quantum Physics",
+    "subtitle": "Illusion Or Reality?",
+    "authors": [
+     "Alastair I. M. Rae",
+     "Sidney L. Harring"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1994-03-25",
+    "description": "Albert Einstein's celebrated remark that \"God does not play dice\" was his response to a set of new scientific ideas now known as quantum physics. These theories threatened the ordered determinism of the Newtonian universe, presenting the radical challenge of an unstable world disturbed by our very attempts to measure or observe it. Quantum physics introduces the alarming possibilities that the observer's mind is the only reality, or that there may be parallel universes. Alternatively, its contradictions may suggest that despite its manifest successes, quantum physics still leaves us in need of a further revolution in thought and the final complete theory of the physical universe. Alastair Rae's introductory exploration has been hailed as \"a masterpiece of clarity,\" and offers an engaging guide to the theories offered.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521467160"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521467162"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 301,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=moyTl2RjzJUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=moyTl2RjzJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=moyTl2RjzJUC&printsec=frontcover&dq=isbn:9780521467162&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=moyTl2RjzJUC&dq=isbn:9780521467162&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Quantum_Physics.html?hl=&id=moyTl2RjzJUC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=moyTl2RjzJUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quantum physics introduces the alarming possibilities that the observer&#39;s mind is the only reality, or that there may be parallel universes."
+   }
+  }
+ ]
+}

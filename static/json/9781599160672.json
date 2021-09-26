@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "b9ywHanWN5kC",
+   "etag": "wNrY2Xn2a3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b9ywHanWN5kC",
+   "volumeInfo": {
+    "title": "Best Kept Secrets of Peer Code Review",
+    "authors": [
+     "Jason A. Cohen"
+    ],
+    "publishedDate": "2006-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599160676"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599160672"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Source code (Computer science)"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=b9ywHanWN5kC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=b9ywHanWN5kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=b9ywHanWN5kC&dq=isbn:9781599160672&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=b9ywHanWN5kC&dq=isbn:9781599160672&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Best_Kept_Secrets_of_Peer_Code_Review.html?hl=&id=b9ywHanWN5kC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=b9ywHanWN5kC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

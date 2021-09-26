@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "a3cJAAAACAAJ",
+   "etag": "92lqC03W4+o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a3cJAAAACAAJ",
+   "volumeInfo": {
+    "title": "Word Power Made Easy",
+    "authors": [
+     "Norman Lewis"
+    ],
+    "publisher": "Bbs Publishing Corporation",
+    "publishedDate": "1995",
+    "description": "For use in schools and libraries only. Exercises designed to develop vocabulary skills present words together with their pronunciations, definitions and use in sentences.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0883659255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780883659250"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a3cJAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a3cJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=a3cJAAAACAAJ&dq=isbn:9780883659250&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=a3cJAAAACAAJ&dq=isbn:9780883659250&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Word_Power_Made_Easy.html?hl=&id=a3cJAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=a3cJAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "For use in schools and libraries only. Exercises designed to develop vocabulary skills present words together with their pronunciations, definitions and use in sentences."
+   }
+  }
+ ]
+}

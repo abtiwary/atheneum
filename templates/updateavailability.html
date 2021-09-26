@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block content %}
+<p>
+<form method="POST" action="http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/updateavailability">
+Availability: &nbsp;
+<select class="selectpicker" id="dropdown1" name="status">
+    <option>Available</option>
+    <option>Borrowed</option>
+</select><br/>
+<input type="hidden" name="id" value={{ render_dict["id"] }}></input>
+<br/>
+Borrower: &nbsp;
+<input type="text" name="borrower">{{ render_dict["borrower"] }}</input>
+<br/>
+Checker: &nbsp;
+<input type="text" name="checker">{{ render_dict["checker"] }}</input>
+<br/>
+Comments: &nbsp;
+<input type="text" name="comments">{{ render_dict["comments"] }}</input>
+<br/>
+<br/>
+<input type="submit" value="Submit Changes"></input>
+</form>
+</p>
+<br/>
+Borrowing History:
+<p><table class="table">
+<thead><tr>
+  <th>ID</th>
+  <th>Serial</th>
+  <th>Mode</th>
+  <th>Date</th>
+  <th>Borrower</th>
+  <th>Checker</th>
+  <th>Comments</th>
+</tr></thead>
+{% for histrow in render_dict["history_rows"] %}
+<tr>
+  {% for item in histrow %}<td>{{ item }}</td>{% endfor %}
+</tr>
+{% endfor %}
+</table></p>
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+}
+</script>
+{% endblock %}

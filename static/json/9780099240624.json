@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ejR-38YEG6sC",
+   "etag": "hBW6aULegoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ejR-38YEG6sC",
+   "volumeInfo": {
+    "title": "The Lost World",
+    "authors": [
+     "Michael Crichton"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "1997",
+    "description": "It is now six years since the secret disaster at Jurassic Park, six years since the extraordinary dream of science and imagination came to a crashing end - the dinosaurs destroyed, the park dismantled, the island indefinitely closed to the public. But there are rumours that something survived. And when a team go to investigate, they are determined not to give it a chance to escape. Michael Cricton takes the terrifying events of Jurassic Park even further in this unstoppably readable adventure sequel, told by a master storyteller.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780099240624"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0099240629"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 430,
+    "printType": "BOOK",
+    "categories": [
+     "American fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=ejR-38YEG6sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=ejR-38YEG6sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=ejR-38YEG6sC&printsec=frontcover&dq=isbn:9780099240624&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=ejR-38YEG6sC&dq=isbn:9780099240624&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Lost_World.html?hl=&id=ejR-38YEG6sC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=ejR-38YEG6sC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It is now six years since the secret disaster at Jurassic Park, six years since the extraordinary dream of science and imagination came to a crashing end - the dinosaurs destroyed, the park dismantled, the island indefinitely closed to the ..."
+   }
+  }
+ ]
+}

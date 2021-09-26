@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gmyRa0ADXm0C",
+   "etag": "vnBd6rsdU8Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gmyRa0ADXm0C",
+   "volumeInfo": {
+    "title": "2010",
+    "subtitle": "Odyssey Two",
+    "authors": [
+     "Arthur Charles Clarke"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "1997",
+    "description": "\"To the spaceship Discovery, floating in the silent depths of space since Dave Bowman passed through the alien 'Star Gate', comes Heywood Floyd on a mission of recovery. What he finds near Jupiter is beyond the imaginings of any mere human.\" [Source : 4e de couv.].",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780586056998"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0586056998"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 297,
+    "printType": "BOOK",
+    "categories": [
+     "Interplanetary voyages"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=gmyRa0ADXm0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=gmyRa0ADXm0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=gmyRa0ADXm0C&dq=isbn:9780586056998&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=gmyRa0ADXm0C&dq=isbn:9780586056998&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/2010.html?hl=&id=gmyRa0ADXm0C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=gmyRa0ADXm0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;To the spaceship Discovery, floating in the silent depths of space since Dave Bowman passed through the alien &#39;Star Gate&#39;, comes Heywood Floyd on a mission of recovery."
+   }
+  }
+ ]
+}

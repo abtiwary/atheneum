@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "60NRPwAACAAJ",
+   "etag": "/mJ9PZYGq4g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/60NRPwAACAAJ",
+   "volumeInfo": {
+    "title": "Anathem",
+    "authors": [
+     "Neal Stephenson"
+    ],
+    "publisher": "Atlantic Books",
+    "publishedDate": "2009-09-01",
+    "description": "Erasmas, 'Raz', is a young avout living in the Concent. Three times during history's darkest epochs, violence has invaded and devastated the cloistered community. Yet the avout have always managed to adapt in the wake of catastrophe. But they now prepare to open the Concent's gates to the outside...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843549174"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843549178"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 981,
+    "printType": "BOOK",
+    "categories": [
+     "Intellectuals"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 95,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=60NRPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=60NRPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=60NRPwAACAAJ&dq=isbn:9781843549178&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=60NRPwAACAAJ&dq=isbn:9781843549178&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Anathem.html?hl=&id=60NRPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=60NRPwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A magnificent creation from the award-winning author of Cryptonomicon."
+   }
+  }
+ ]
+}

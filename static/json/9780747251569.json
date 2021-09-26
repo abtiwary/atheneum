@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WGCiHAAACAAJ",
+   "etag": "VZV1X4uNSZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WGCiHAAACAAJ",
+   "volumeInfo": {
+    "title": "The Demon-haunted World",
+    "subtitle": "Science as a Candle in the Dark",
+    "authors": [
+     "Carl Sagan"
+    ],
+    "publishedDate": "1997",
+    "description": "Carl Sagan demonstrates how scientific thinking is necessary to safeguard our democratic institutions and our technical civilization. The book debunks the ideas of alien abduction, mediums and faith healers, and refutes the arguement that science destroys spirituality",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0747251568"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780747251569"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 436,
+    "printType": "BOOK",
+    "categories": [
+     "Literacy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2022,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=WGCiHAAACAAJ&dq=isbn:9780747251569&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=WGCiHAAACAAJ&dq=isbn:9780747251569&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Demon_haunted_World.html?hl=&id=WGCiHAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=WGCiHAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book debunks the ideas of alien abduction, mediums and faith healers, and refutes the arguement that science destroys spirituality"
+   }
+  }
+ ]
+}

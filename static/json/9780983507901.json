@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3UWPZwEACAAJ",
+   "etag": "BfTlsEBAKkw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3UWPZwEACAAJ",
+   "volumeInfo": {
+    "title": "Version Control by Example",
+    "authors": [
+     "Eric Sink"
+    ],
+    "publishedDate": "2011-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0983507902"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780983507901"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Computer software"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3UWPZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3UWPZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=3UWPZwEACAAJ&dq=isbn:9780983507901&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=3UWPZwEACAAJ&dq=isbn:9780983507901&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Version_Control_by_Example.html?hl=&id=3UWPZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=3UWPZwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t4b69z5hs58C",
+   "etag": "qs1GaNI1jYk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t4b69z5hs58C",
+   "volumeInfo": {
+    "title": "Sphere",
+    "authors": [
+     "Michael Crichton"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2012-05-14",
+    "description": "From the author of Jurassic Park, Timeline, and Congo comes a psychological thriller about a group of scientists who investigate a spaceship discovered on the ocean floor. In the middle of the South Pacific, a thousand feet below the surface, a huge vessel is unearthed. Rushed to the scene is a team of American scientists who descend together into the depths to investigate the astonishing discovery. What they find defies their imaginations and mocks their attempts at logical explanation. It is a spaceship, but apparently it is undamaged by its fall from the sky. And, most startling, it appears to be at least three hundred years old, containing a terrifying and destructive force that must be controlled at all costs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307816481"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0307816486"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.6.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=t4b69z5hs58C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=t4b69z5hs58C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=t4b69z5hs58C&printsec=frontcover&dq=isbn:9780307816481&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=t4b69z5hs58C&dq=isbn:9780307816481&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Sphere.html?hl=&id=t4b69z5hs58C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.67,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 5.62,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "http://books.google.com.au/books?id=t4b69z5hs58C&dq=isbn:9780307816481&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8670000.0,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5620000.0,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Sphere-sample-epub.acsm?id=t4b69z5hs58C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=t4b69z5hs58C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "From the author of Jurassic Park, Timeline, and Congo comes a psychological thriller about a group of scientists who investigate a spaceship discovered on the ocean floor."
+   }
+  }
+ ]
+}

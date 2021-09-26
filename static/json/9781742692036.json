@@ -1,0 +1,104 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JbAknt7ZL6IC",
+   "etag": "abNQqWqtUF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JbAknt7ZL6IC",
+   "volumeInfo": {
+    "title": "The Great Australian Book of Limericks",
+    "authors": [
+     "Jim Haynes"
+    ],
+    "publisher": "Allen & Unwin",
+    "publishedDate": "2010-12-01",
+    "description": "A bumper collection of all the very best limericks - the witty and the whimsical, the chaste and the crass, from simple from childhood versions to the very adult ones.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1742692036"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742692036"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JbAknt7ZL6IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JbAknt7ZL6IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=JbAknt7ZL6IC&printsec=frontcover&dq=isbn:9781742692036&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JbAknt7ZL6IC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JbAknt7ZL6IC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 12.56,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JbAknt7ZL6IC&rdid=book-JbAknt7ZL6IC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.256E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Great_Australian_Book_of_Limericks-sample-epub.acsm?id=JbAknt7ZL6IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Great_Australian_Book_of_Limericks-sample-pdf.acsm?id=JbAknt7ZL6IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=JbAknt7ZL6IC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A bumper collection of all the very best limericks - the witty and the whimsical, the chaste and the crass, from simple from childhood versions to the very adult ones."
+   }
+  }
+ ]
+}

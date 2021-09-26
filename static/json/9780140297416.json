@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "67BtWrGLAR0C",
+   "etag": "N3ImAifW82s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/67BtWrGLAR0C",
+   "volumeInfo": {
+    "title": "Science",
+    "subtitle": "A History",
+    "authors": [
+     "John Gribbin"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2003",
+    "description": "This title begins with Galileo and takes the reader through to the scientific developments of string theory. An accessible narrative history, it focuses on the way in which science has progressed by building on what went before and details the work of science's greatest minds.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140297416"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0140297413"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 646,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=67BtWrGLAR0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=67BtWrGLAR0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=67BtWrGLAR0C&dq=isbn:9780140297416&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=67BtWrGLAR0C&dq=isbn:9780140297416&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Science.html?hl=&id=67BtWrGLAR0C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=67BtWrGLAR0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An accessible narrative history, it focuses on the way in which science has progressed by building on what went before and details the work of science&#39;s greatest minds."
+   }
+  }
+ ]
+}

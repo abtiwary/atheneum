@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CNwOngEACAAJ",
+   "etag": "BHtQXqsetIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CNwOngEACAAJ",
+   "volumeInfo": {
+    "title": "A Universe from Nothing",
+    "subtitle": "Why There Is Something Rather than Nothing",
+    "authors": [
+     "Lawrence M. Krauss"
+    ],
+    "publisher": "Atria Books",
+    "publishedDate": "2013-01-01",
+    "description": "Bestselling author and acclaimed physicist Lawrence Krauss offers a paradigm-shifting view of how everything that exists came to be in the first place. “Where did the universe come from? What was there before it? What will the future bring? And finally, why is there something rather than nothing?” One of the few prominent scientists today to have crossed the chasm between science and popular culture, Krauss describes the staggeringly beautiful experimental observations and mind-bending new theories that demonstrate not only can something arise from nothing, something will always arise from nothing. With a new preface about the significance of the discovery of the Higgs particle, A Universe from Nothing uses Krauss’s characteristic wry humor and wonderfully clear explanations to take us back to the beginning of the beginning, presenting the most recent evidence for how our universe evolved—and the implications for how it’s going to end. Provocative, challenging, and delightfully readable, this is a game-changing look at the most basic underpinning of existence and a powerful antidote to outmoded philosophical, religious, and scientific thinking.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1451624468"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781451624465"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=CNwOngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=CNwOngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=CNwOngEACAAJ&dq=isbn:9781451624465&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=CNwOngEACAAJ&dq=isbn:9781451624465&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/A_Universe_from_Nothing.html?hl=&id=CNwOngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=CNwOngEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Provocative, challenging, and delightfully readable, this is a game-changing look at the most basic underpinning of existence and a powerful antidote to outmoded philosophical, religious, and scientific thinking."
+   }
+  }
+ ]
+}

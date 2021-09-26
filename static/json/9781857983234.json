@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LUR2HAAACAAJ",
+   "etag": "9FWRvZLRfk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LUR2HAAACAAJ",
+   "volumeInfo": {
+    "title": "The Collected Stories",
+    "authors": [
+     "Arthur C. Clarke"
+    ],
+    "publisher": "Orion Publishing Group",
+    "publishedDate": "2001",
+    "description": "All of Arthur C. Clarke¿s short stories collected in one volume, beginning with ¿Travel by Wire! ¿, Clarke¿s first ever published short story. A volume which showcases his range and variety, each story a classic example of the unique mixture of speculation and fiction which has made Clarke a household name. This edition is being published in 2001, the year that is synonymous with Clarke¿s visions of the future.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1857983238"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781857983234"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 966,
+    "printType": "BOOK",
+    "categories": [
+     "Science fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=LUR2HAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=LUR2HAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=LUR2HAAACAAJ&dq=isbn:9781857983234&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=LUR2HAAACAAJ&dq=isbn:9781857983234&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Collected_Stories.html?hl=&id=LUR2HAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=LUR2HAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This edition is being published in 2001, the year that is synonymous with Clarke&#39;s visions of the future."
+   }
+  }
+ ]
+}

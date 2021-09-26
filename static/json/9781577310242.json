@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nQZPPgAACAAJ",
+   "etag": "IbR4xxPgv8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nQZPPgAACAAJ",
+   "volumeInfo": {
+    "title": "The Inscrutable Americans",
+    "authors": [
+     "Anurag Mathur"
+    ],
+    "publishedDate": "1997",
+    "description": "This quirky novel - a besteller in India - chronicles an Indian student's year abroad at an American university. Gopal's hilarious misadventures with the American language, his flamboyant landlady, the ubiquitous hamburger, and, most of all, American women form the basis for this wonderfully truthful story. Faced with the relentless sexuality of his fellow college students, the quintessentially decent Gopal reacts with a mixture of disbelief, sly amusement, and hormonal overload. Throughout his battles with racism, his own insecurity, and his family's warning that he will be severely judged should he dabble in America's temptations, Gopal retains a dignity and surprising shrewdness, rejecting the worst of what American offers even as he recognizes the best. Following reluctantly behind the outrageous leadership of his American friend Randy, the naive but observant Gopal reacts with a wit that far transcends his linguistic limitations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1577310241"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781577310242"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=nQZPPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=nQZPPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=nQZPPgAACAAJ&dq=isbn:9781577310242&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=nQZPPgAACAAJ&dq=isbn:9781577310242&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Inscrutable_Americans.html?hl=&id=nQZPPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=nQZPPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This quirky novel - a besteller in India - chronicles an Indian student&#39;s year abroad at an American university."
+   }
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PEhUdGqVP38C",
+   "etag": "aIAn3TXfBcQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PEhUdGqVP38C",
+   "volumeInfo": {
+    "title": "Fahrenheit 451",
+    "authors": [
+     "Ray Bradbury"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "1993",
+    "description": "Ray Bradbury's internationally acclaimed novel \"Fahrenheit 451\"is a masterwork of twentieth-century literature set in a bleak, dystopian future. Guy Montag is a fireman. In his world, where television rules and literature is on the brink of extinction, firemen start fires rather than put them out. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television \"family.\" But then he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didn't live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television. When Mildred attempts suicide and Clarisse suddenly disappears, Montag begins to question everything he has ever known. He starts hiding books in his home, and when his pilfering is discovered, the fireman has to run for his life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780006546061"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0006546064"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Book burning"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1155,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=PEhUdGqVP38C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=PEhUdGqVP38C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=PEhUdGqVP38C&dq=isbn:9780006546061&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=PEhUdGqVP38C&dq=isbn:9780006546061&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Fahrenheit_451.html?hl=&id=PEhUdGqVP38C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=PEhUdGqVP38C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden."
+   }
+  }
+ ]
+}

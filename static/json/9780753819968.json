@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0Fn0QAAACAAJ",
+   "etag": "2nREnqXnhkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0Fn0QAAACAAJ",
+   "volumeInfo": {
+    "title": "The Ancestor's Tale",
+    "subtitle": "A Pilgrimage to the Dawn of Life",
+    "authors": [
+     "Richard Dawkins",
+     "Yan Wong"
+    ],
+    "publishedDate": "2005",
+    "description": "In works such as \"The Selfish Gene\" and \"Unweaving the Rainbow,\" the renowned evolutionary biologist Richard Dawkins has introduced the wonders of modern biology. Now this gifted science popularizer offers a masterwork: a wholly original tour backward through evolution.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0753819961"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753819968"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 685,
+    "printType": "BOOK",
+    "categories": [
+     "Animals, Fossil"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0Fn0QAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0Fn0QAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=0Fn0QAAACAAJ&dq=isbn:9780753819968&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=0Fn0QAAACAAJ&dq=isbn:9780753819968&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Ancestor_s_Tale.html?hl=&id=0Fn0QAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=0Fn0QAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In works such as &quot;The Selfish Gene&quot; and &quot;Unweaving the Rainbow,&quot; the renowned evolutionary biologist Richard Dawkins has introduced the wonders of modern biology."
+   }
+  }
+ ]
+}

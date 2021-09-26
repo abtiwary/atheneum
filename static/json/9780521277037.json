@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qhDFuWbLlgQC",
+   "etag": "wCna7pyU3vQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qhDFuWbLlgQC",
+   "volumeInfo": {
+    "title": "A First Course in General Relativity",
+    "authors": [
+     "Bernard F. Schutz"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1985-01-31",
+    "description": "General relativity has become one of the central pillars of theoretical physics, with important applications in both astrophysics and high-energy particle physics, and no modern theoretical physicist's education should be regarded as complete without some study of the subject. This textbook, based on the author's own undergraduate teaching, develops general relativity and its associated mathematics from a minimum of prerequisites, leading to a physical understanding of the theory in some depth. It reinforces this understanding by making a detailed study of the theory's most important applications - neutron stars, black holes, gravitational waves, and cosmology - using the most up-to-date astronomical developments. The book is suitable for a one-year course for beginning graduate students or for undergraduates in physics who have studied special relativity, vector calculus, and electrostatics. Graduate students should be able to use the book selectively for half-year courses.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521277035"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521277037"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=qhDFuWbLlgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=qhDFuWbLlgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=qhDFuWbLlgQC&printsec=frontcover&dq=isbn:9780521277037&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=qhDFuWbLlgQC&dq=isbn:9780521277037&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/A_First_Course_in_General_Relativity.html?hl=&id=qhDFuWbLlgQC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=qhDFuWbLlgQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book is suitable for a one-year course for beginning graduate students or for undergraduates in physics who have studied special relativity, vector calculus, and electrostatics."
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vg3lk5NPUjwC",
+   "etag": "dRQCliMXNuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vg3lk5NPUjwC",
+   "volumeInfo": {
+    "title": "Egyptian Mummies",
+    "subtitle": "Unraveling the Secrets of an Ancient Art",
+    "authors": [
+     "Bob Brier"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "1996-03-14",
+    "description": "Egyptian Mummies results from research done in preparation for the mummification of a human body, the first to be done in the Egyptian style in two thousand years. Through these studies, noted Egyptologist Bob Brier has unearthed the gripping stories of grave robberies and stolen mummies, the forgotten language of the pharaohs, and the tombs of the royal mummies. In an easily accesible and lively style, Brier uncovers the complete historical context of ancient Egyptian culture and offers a fascinating contemporary interpretation of it. Illuminating their mysteries, myths, sacred rituals, and heiroglyphic writing, Egyptian Mummies brings the ancients to life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780688146245"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0688146244"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=vg3lk5NPUjwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=vg3lk5NPUjwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=vg3lk5NPUjwC&dq=isbn:9780688146245&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=vg3lk5NPUjwC&dq=isbn:9780688146245&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Egyptian_Mummies.html?hl=&id=vg3lk5NPUjwC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=vg3lk5NPUjwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Through these studies, noted Egyptologist Bob Brier has unearthed the gripping stories of grave robberies and stolen mummies, the forgotten language of the pharaohs, and the tombs of the royal mummies."
+   }
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-glbSgAACAAJ",
+   "etag": "Jmv2bqcMdpI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-glbSgAACAAJ",
+   "volumeInfo": {
+    "title": "H2O",
+    "subtitle": "A Biography of Water",
+    "authors": [
+     "Philip Ball"
+    ],
+    "publisher": "Orion Publishing Group",
+    "publishedDate": "2000",
+    "description": "The brilliantly told and gripping story of the most familiar - yet, amazingly, still poorly understood - substance in the universe: Water. The extent to which water remains a scientific mystery is extraordinary, despite its prevalence and central importance on Earth. Whether one considers its role in biology, its place in the physical world (where it refuses to obey the usual rules of liquids) or its deceptively simple structure, there is still no complete answer to the question: what is water? Philip Ball's book explains what, exactly, we do and do not know about the strange character of this most essential and ubiquitous of substances. H20 begins by transporting its readers back to the Big Bang and the formation of galaxies to witness the birth of water's constituent elements: hydrogen and oxygen. It then explains how the primeval oceans were formed four billion years ago; where water is to be found on other planets; why ice floats when most solids sink; why, despite being highly corrosive, water is good for us; why there are at least fifteen kinds of ice and perhaps two kinds of liquid water; how scientists have consistently misunderstood water for centuries; and why wars have been waged over it. Philip Ball's gloriously offbeat and intelligent book conducts us on a journey through the history of science, folklore, the wilder scientific fringes, cutting-edge physics, biology and ecology, to give a fascinating new perspective on life and the substance that sustains it. After reading this book, drinking a glass of water will never be the same again.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0753810921"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753810927"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 387,
+    "printType": "BOOK",
+    "categories": [
+     "Water"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-glbSgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-glbSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=-glbSgAACAAJ&dq=isbn:9780753810927&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=-glbSgAACAAJ&dq=isbn:9780753810927&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/H2O.html?hl=&id=-glbSgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=-glbSgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "After reading this book, drinking a glass of water will never be the same again."
+   }
+  }
+ ]
+}

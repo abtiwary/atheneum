@@ -1,0 +1,101 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oAkZBQAAQBAJ",
+   "etag": "Imx0o/4H7q4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oAkZBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Foundations of Python Network Programming",
+    "authors": [
+     "Brandon Rhodes",
+     "John Goerzen"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2014-10-20",
+    "description": "Foundations of Python Network Programming, Third Edition, covers all of the classic topics found in the second edition of this book, including network protocols, network data and errors, email, server architecture, and HTTP and web applications, plus updates for Python 3. Some of the new topics in this edition include: • Extensive coverage of the updated SSL support in Python 3 • How to write your own asynchronous I/O loop. • An overview of the \"asyncio\" framework that comes with Python 3.4. • How the Flask web framework connects URLs to your Python code. • How cross-site scripting and cross-site request forgery can be used to attack your web site, and how to protect against them. • How a full-stack web framework like Django can automate the round trip from your database to the screen and back. If you're a Python programmer who needs a deep understanding of how to use Python for network-related tasks and applications, this is the book for you. From web application developers, to systems integrators, to system administrators—this book has everything that you need to know.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430258551"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430258551"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 388,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=oAkZBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=oAkZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=oAkZBQAAQBAJ&printsec=frontcover&dq=isbn:9781430258551&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=oAkZBQAAQBAJ&dq=isbn:9781430258551&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Foundations_of_Python_Network_Programmin.html?hl=&id=oAkZBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.7,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 31.56,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "http://books.google.com.au/books?id=oAkZBQAAQBAJ&dq=isbn:9781430258551&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.87E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.156E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Foundations_of_Python_Network_Programmin-sample-epub.acsm?id=oAkZBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Foundations_of_Python_Network_Programmin-sample-pdf.acsm?id=oAkZBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=oAkZBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Foundations of Python Network Programming, Third Edition, covers all of the classic topics found in the second edition of this book, including network protocols, network data and errors, email, server architecture, and HTTP and web ..."
+   }
+  }
+ ]
+}

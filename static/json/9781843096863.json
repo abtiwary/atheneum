@@ -1,0 +1,64 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LlCuOwAACAAJ",
+   "etag": "Un4V7MdZvwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LlCuOwAACAAJ",
+   "volumeInfo": {
+    "title": "Ancient Egypt",
+    "subtitle": "An Illustrated Reference to the Mythology and Religious Beliefs of the Land of the Pharoahs, and to the Temples, Pyramids and Other Sacred Sites",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:920990104"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Egypt"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=LlCuOwAACAAJ&dq=isbn:9781843096863&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=LlCuOwAACAAJ&dq=isbn:9781843096863&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Ancient_Egypt.html?hl=&id=LlCuOwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=LlCuOwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

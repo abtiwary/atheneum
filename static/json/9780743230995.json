@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7auiPwAACAAJ",
+   "etag": "hS19FCfFPVU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7auiPwAACAAJ",
+   "volumeInfo": {
+    "title": "Before the Beginning",
+    "subtitle": "Our Universe and Others",
+    "authors": [
+     "Martin J. Rees"
+    ],
+    "publishedDate": "2002",
+    "description": "The experimental and theoretical successes of cosmology in recent years offer the most dramatic enlargement of our concept of the universe since astronomers first realised the Sun's true place among the stars. In this groundbreaking, thought-provoking and accessible book Professor Sir Martin Rees argues that our universe is just one element in an infinite ensemble, a cosmic archipelago where impassable barriers prohibit communication between the islands. Our 'home universe' is an exceptional member of this ensemble, however, not least because it contains creatures able to observe it and contemplate its nature, past and future. One of these is Rees himself: one of the most creative and original of contemporary scientists, and a wonderful guide to the mysteries of the cosmos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074323099X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743230995"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Astronomy"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7auiPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7auiPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=7auiPwAACAAJ&dq=isbn:9780743230995&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=7auiPwAACAAJ&dq=isbn:9780743230995&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Before_the_Beginning.html?hl=&id=7auiPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=7auiPwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "One of these is Rees himself: one of the most creative and original of contemporary scientists, and a wonderful guide to the mysteries of the cosmos."
+   }
+  }
+ ]
+}

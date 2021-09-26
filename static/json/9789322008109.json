@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3DSAMwEACAAJ",
+   "etag": "qB3ZhaY4BwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3DSAMwEACAAJ",
+   "volumeInfo": {
+    "title": "Escape to Nowhere",
+    "authors": [
+     "Amar Bhushan"
+    ],
+    "publishedDate": "2012",
+    "description": "A whistleblower nervously drops in to share his suspicion about a senior colleague's involvement in espionage with Jeevnathan, head of the security division of the Agency, India's External Intelligence Service. An inquiry is promptly launched and Ravi, the suspect is placed under an elaborate regime of surveillance. The investigation subsequently throws up a huge amount of evidence, showing the suspect stealing sensitive data. As panic sets in, investigators acrimoniously debate whether to allow the suspect to walk free or physically force him to own up his crime. For Jeevnathan, the problem also is how to keep the tiring watchers going and persuade on edgy Chief to stay on course. Loosely inspired bya true incident that took place in 2004 when a senior intelligence officer suspected of being a spy for cecades vanished.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9322008105"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789322008109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Intelligence officers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=3DSAMwEACAAJ&dq=isbn:9789322008109&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=3DSAMwEACAAJ&dq=isbn:9789322008109&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Escape_to_Nowhere.html?hl=&id=3DSAMwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=3DSAMwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A whistleblower nervously drops in to share his suspicion about a senior colleague&#39;s involvement in espionage with Jeevnathan, head of the security division of the Agency, India&#39;s External Intelligence Service."
+   }
+  }
+ ]
+}

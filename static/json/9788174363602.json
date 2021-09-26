@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eJ9iAAAACAAJ",
+   "etag": "u8zEPn1sYpc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eJ9iAAAACAAJ",
+   "volumeInfo": {
+    "title": "Sachin Tendulkar",
+    "subtitle": "A Definitive Biography",
+    "authors": [
+     "Vaibhav Purandare"
+    ],
+    "publisher": "Lotus Roli",
+    "publishedDate": "2005",
+    "description": "This is neither a scorebook, nor the accumulation of facts or the extension of a globally recognised brand. This is the first in-depth and comprehensive biography of Sachin Tendulkar, and it puts Sachin the cricketer and the human being in perspective. Tendulkar's story is told grippingly, with a wealth of rare, unpublished anecdotes that throw fresh light on a remarkable career. This book probes the psychological birth and growth of the world's leading batsman, examines the historical forces that shaped his personal and cricketing character, analyses his cricket planning and actions and evaluates the history the man has created, whether by making his Test debut at sixteen or by breaking records with a stunning regularity. It just as carefully chronicles and discusses his disappointments, failures and the controversies that have cropped up around his name, and provides an insight into Tendulkar the man, who has for so long kept from public view. Above all, the book places Tendulkar in the context of the international cricket tradition and determines his exact place in world cricket history. Capacious and yet crisp, Sachin Tendulkar: A Definitive Biography is Tendulkar in totality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8174363602"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788174363602"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 426,
+    "printType": "BOOK",
+    "categories": [
+     "Cricket captains"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=eJ9iAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=eJ9iAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=eJ9iAAAACAAJ&dq=isbn:9788174363602&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=eJ9iAAAACAAJ&dq=isbn:9788174363602&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Sachin_Tendulkar.html?hl=&id=eJ9iAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=eJ9iAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This is neither a scorebook, nor the accumulation of facts or the extension of a globally recognised brand."
+   }
+  }
+ ]
+}

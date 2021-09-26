@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dGb2GgAACAAJ",
+   "etag": "D7bXdd6BPKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dGb2GgAACAAJ",
+   "volumeInfo": {
+    "title": "Probability 1",
+    "subtitle": "Why There Must be Intelligent Life in the Universe",
+    "authors": [
+     "Amir D. Aczel"
+    ],
+    "publishedDate": "2000",
+    "description": "At one level, this book surveys recent findings about the existence of planets orbiting other sun-like stars, such as 51 Pegasi (discovered in 1995) and Tau Bootis. It addresses questions such as what life is and what intelligent life is, as well as theories about how life evolved on Earth from basic molecules into more complex organic compounds leading to DNA. The existence of similar molecules on other planets in our solar system, as well as in meteorites that land on Earth every year, is used in an argument for the evolution of such compounds - the building blocks of life - outside Earth. At the same time, the author applies the laws of large numbers to the immense size of the known universe, with its billions of galaxies, each containing many billions of stars, to argue the probability that there is life elsewhere.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0349112479"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780349112473"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Biology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dGb2GgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dGb2GgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=dGb2GgAACAAJ&dq=isbn:9780349112473&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=dGb2GgAACAAJ&dq=isbn:9780349112473&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Probability_1.html?hl=&id=dGb2GgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=dGb2GgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "At one level, this book surveys recent findings about the existence of planets orbiting other sun-like stars, such as 51 Pegasi (discovered in 1995) and Tau Bootis."
+   }
+  }
+ ]
+}

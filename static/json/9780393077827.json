@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gFwnAgAAQBAJ",
+   "etag": "NGVlOEInFJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gFwnAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human",
+    "authors": [
+     "V. S. Ramachandran"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2011",
+    "description": "The \"Marco Polo of Neuroscience\" traces the links between neurology and behavior and discusses how normal brain function evolves through the examination of several baffling and extreme case studies and describes a new direction for the treatment of autism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393077827"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0393077829"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 12,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gFwnAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gFwnAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=gFwnAgAAQBAJ&dq=isbn:9780393077827&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=gFwnAgAAQBAJ&dq=isbn:9780393077827&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Tell_Tale_Brain_A_Neuroscientist_s_Q.html?hl=&id=gFwnAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=gFwnAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The &quot;Marco Polo of Neuroscience&quot; traces the links between neurology and behavior and discusses how normal brain function evolves through the examination of several baffling and extreme case studies and describes a new direction for the ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jtbMjoXRJv8C",
+   "etag": "FGXTg534DOU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtbMjoXRJv8C",
+   "volumeInfo": {
+    "title": "On the Origin of Species by Means of Natural Selection (PT. 1); Or, the Preservation of Favored Races in the Struggle for Life",
+    "authors": [
+     "Charles Darwin"
+    ],
+    "publisher": "General Books LLC",
+    "publishedDate": "2009-12",
+    "description": "Volume: pt. 1 General Books publication date: 2009 Original publication date: 1882 Original Publisher: Appleton Subjects: Evolution Natural selection Science / Life Sciences / Biology / General Science / Life Sciences / Evolution Science / Life Sciences / Genetics",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1150085509"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781150085505"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 354,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 612,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=jtbMjoXRJv8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=jtbMjoXRJv8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=jtbMjoXRJv8C&dq=isbn:9781150085505&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=jtbMjoXRJv8C&dq=isbn:9781150085505&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/On_the_Origin_of_Species_by_Means_of_Nat.html?hl=&id=jtbMjoXRJv8C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=jtbMjoXRJv8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Volume: pt. 1 General Books publication date: 2009 Original publication date: 1882 Original Publisher: Appleton Subjects: Evolution Natural selection Science / Life Sciences / Biology / General Science / Life Sciences / Evolution Science / ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "c9VVAAAACAAJ",
+   "etag": "8en0r3sZqqY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c9VVAAAACAAJ",
+   "volumeInfo": {
+    "title": "An Autobiography",
+    "authors": [
+     "Jawaharlal Nehru"
+    ],
+    "publishedDate": "2004",
+    "description": "Through All Its Details There Runs A Deep Current Of Humanity Which Overpasses The Tangles Of Facts And Leads Us To The Person Who Is Greater Than His Deeds And Truer Than His Surroundings.' Rabindranath Tagore Jawaharlal Nehru'S Life Was Closely Intertwined With The History And Destiny Of Modern India. His Autobiography, Written Between 1934 And 1935 When He Was In Prison, Is More Than The Personal Story Of An Individual It Is Also An Account Of The Political Awakening Of A Nation, Its Struggle For Freedom From British Rule, And Its Search To Reshape Itself As A Modern Society, Rid Of The Cultural And Economic Shackles Of The Past. Through This Narrative, Written With Extraordinary Eloquence And Honesty, And Illuminated With Vibrant Descriptions Of Mahatma Gandhi And Other Leaders Of The National Movement, Emerges The Portrait Of The Author Himself A Complex And Introspective Personality With A Brilliant And Questing Mind, A Deep Love Of Nature, An Engaging Zest For Life And, Above All, A Passionate Commitment To Democracy And Secularism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "014303104X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780143031048"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 655,
+    "printType": "BOOK",
+    "categories": [
+     "India"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c9VVAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c9VVAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=c9VVAAAACAAJ&dq=isbn:9780143031048&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=c9VVAAAACAAJ&dq=isbn:9780143031048&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/An_Autobiography.html?hl=&id=c9VVAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=c9VVAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "His Autobiography, Written Between 1934 And 1935 When He Was In Prison, Is More Than The Personal Story Of An Individual It Is Also An Account Of The Political Awakening Of A Nation, Its Struggle For Freedom From British Rule, And Its ..."
+   }
+  }
+ ]
+}

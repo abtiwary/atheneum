@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_54oQKjE0vMC",
+   "etag": "gVfQVa6qRqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_54oQKjE0vMC",
+   "volumeInfo": {
+    "title": "Harappan Architecture and Civil Engineering",
+    "authors": [
+     "Jagat Pati Joshi"
+    ],
+    "publisher": "Rupa Publications",
+    "publishedDate": "2008",
+    "description": "For the first time ever, this book gives a full view of Harappan architecture and engineering. It begins with the history of the discovery of the Indus Civilisation, from Alexander Cunninghan, through Marshall to Wheeler and recent excavators. It delineates the genesis and growth of urban architecture of the Harappans through the various discoveries from about twenty sites in the Indian subcontinent. It discusses the Harappan settlement pattern, its distribution in different ecological zones, and the regional variation in their architectural edifices. The architectural genius of the Harappans has been elucidated by a thorough treatment of the various aspects of town planning, fortification, gateways, streets, lanes, houses, drainage system, bathing floors, platforms for houses. The outstanding buildings such as the Great Bath, the granaries at Mohenjodaro and Harappa and the College Building at Mohenjodaro have been discussed in great detail.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788129111838"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8129111837"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_54oQKjE0vMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_54oQKjE0vMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=_54oQKjE0vMC&dq=isbn:9788129111838&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=_54oQKjE0vMC&dq=isbn:9788129111838&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Harappan_Architecture_and_Civil_Engineer.html?hl=&id=_54oQKjE0vMC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=_54oQKjE0vMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "For the first time ever, this book gives a full view of Harappan architecture and engineering."
+   }
+  }
+ ]
+}

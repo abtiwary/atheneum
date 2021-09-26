@@ -1,0 +1,80 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "V0x1QgAACAAJ",
+   "etag": "CNug2ArZFgY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V0x1QgAACAAJ",
+   "volumeInfo": {
+    "title": "A Quark for Mister Mark",
+    "subtitle": "101 Poems about Science",
+    "authors": [
+     "Maurice Riordan",
+     "Jon Turney"
+    ],
+    "publishedDate": "2000",
+    "description": "Quark,n. (Phys.) One of three hypothetical components of elementary particles [from: 'Three quarks for Muster Mark!' in Joyce's Finnegans Wake] - The Concise Oxford Dictionary. In a wonderfully eclectic and lively selection of poems, this anthology counters the notion that science and poetry are magnetically opposed. The model of the two cultures has collapsed. Just as poets write about science and about recent scientific ideas, so too science has reached out to the language of poetry for its own intimations on the wilder shore of the here and the elsewhere. A Quark for Mister Mark includes poems, old and new, whose subject is science - its discoveries, its processes - but also poems which look at the world with an inherently scientific gaze, whether before Copernicus or after Einstein.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0571205429"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780571205424"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "English poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V0x1QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V0x1QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=V0x1QgAACAAJ&dq=isbn:9780571205424&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=V0x1QgAACAAJ&dq=isbn:9780571205424&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/A_Quark_for_Mister_Mark.html?hl=&id=V0x1QgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=V0x1QgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Quark for Mister Mark includes poems, old and new, whose subject is science - its discoveries, its processes - but also poems which look at the world with an inherently scientific gaze, whether before Copernicus or after Einstein."
+   }
+  }
+ ]
+}

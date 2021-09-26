@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bQG0PAAACAAJ",
+   "etag": "CS5jsuHN2DM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bQG0PAAACAAJ",
+   "volumeInfo": {
+    "title": "The Greatest Show on Earth",
+    "subtitle": "The Evidence for Evolution",
+    "authors": [
+     "Richard Dawkins"
+    ],
+    "publisher": "Bantam Press",
+    "publishedDate": "2009-01-01",
+    "description": "150 years ago the momentous findings in Charles Darwin's controversial masterpiece, On the Origin of Species, shook the scientific and religious world to its core. Perhaps more astonishing, the creation-evolution debate sparked by his seminal work of 1859 continues unabated in the 21st century. Now, Richard Dawkins, world renowned evolutionary biologist and famous atheist, takes on the Creationists with a brilliant and uncompromising look at the incontrovertible evidence for Darwin's theory of evolution. The panoply of data that proves the theory is vast, with scientific fingerprints massively numerous and varied. The logic Dawkins employs to explain it is the same throughout the book: the evidence that we see is exactly what we should expect to see if evolution had happened. He examines the facts from the point of view of domestication, from cabbages to Great Danes. Anatomy yields a raft of clues whether from the common mouse or fish, and molecules underscore the message even more convincingly. With answers to a miscellany of common questions, and detailed descriptions of what our ancestors would have looked like at various landmark dates, Dawkins leaves us with no room for doubt. The Greatest Show on Earth comes at a critical time; systematic opposition to the truth of evolution is now flourishing as never before in America, while in Britain, pockets of intelligent design are entering our schooling system at an alarming pace. Following the storm upon publication of The God Delusion, Dawkins continues the heated debate about science and religion whilst furthering the public education that he feels passionately is his responsibility. His new book is a thrilling tribute to science, the wonders of nature and his ultimate hero, Charles Darwin.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0593061748"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780593061749"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 470,
+    "printType": "BOOK",
+    "categories": [
+     "Evolution (Biology)"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 38,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bQG0PAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bQG0PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=bQG0PAAACAAJ&dq=isbn:9780593061749&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=bQG0PAAACAAJ&dq=isbn:9780593061749&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Greatest_Show_on_Earth.html?hl=&id=bQG0PAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=bQG0PAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "150 years ago the momentous findings in Charles Darwin&#39;s controversial masterpiece, On the Origin of Species, shook the scientific and religious world to its core."
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PZixOQAACAAJ",
+   "etag": "phDuKmn1jGM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PZixOQAACAAJ",
+   "volumeInfo": {
+    "title": "Why Does the World Exist?",
+    "subtitle": "An Existential Detective Story",
+    "authors": [
+     "Jim Holt"
+    ],
+    "publisher": "Profile Books(GB)",
+    "publishedDate": "2012",
+    "description": "'Why is there a world rather than nothing at all?' remains the most curious and most enduring of all metaphysical mysteries. Moving away from the narrower paths of Christopher Hitchens, Roger Penrose and Stephen Hawking, the celebrated essayist Jim Holt now enters this fascinating debate with his broad, lively and deeply informed narrative that traces all our efforts to grasp the origins of the universe.With sly humour and a highly original personal approach Holt takes on the role of cosmological detective. Suggesting that we might have been too narrow in limiting our suspects to God and the Big Bang, he tracks down, among others, an eccentric Oxford philosopher, a Nobel Laureate physicist, a French Buddhist monk, and John Updike just before he died, to pursue this cosmic puzzle from every angle. As he pieces together a solution - while offering useful insights into time, consciousness, and eternity - he sheds fascinating new light on the meaning of existence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1846682444"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846682445"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 307,
+    "printType": "BOOK",
+    "categories": [
+     "Cosmology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=PZixOQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=PZixOQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=PZixOQAACAAJ&dq=isbn:9781846682445&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=PZixOQAACAAJ&dq=isbn:9781846682445&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Why_Does_the_World_Exist.html?hl=&id=PZixOQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=PZixOQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An irreverent sleuth tackles the riddle of existence that has puzzled man since the dawn of time."
+   }
+  }
+ ]
+}

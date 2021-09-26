@@ -1,0 +1,106 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VWTNCwAAQBAJ",
+   "etag": "cEuDrvHTTD4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VWTNCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Road To Reality",
+    "subtitle": "A Complete Guide to the Laws of the Universe",
+    "authors": [
+     "Roger Penrose"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2016-03-31",
+    "description": "The Road to Reality is the most important and ambitious work of science for a generation. It provides nothing less than a comprehensive account of the physical universe and the essentials of its underlying mathematical theory. It assumes no particular specialist knowledge on the part of the reader, so that, for example, the early chapters give us the vital mathematical background to the physical theories explored later in the book. Roger Penrose's purpose is to describe as clearly as possible our present understanding of the universe and to convey a feeling for its deep beauty and philosophical implications, as well as its intricate logical interconnections. The Road to Reality is rarely less than challenging, but the book is leavened by vivid descriptive passages, as well as hundreds of hand-drawn diagrams. In a single work of colossal scope one of the world's greatest scientists has given us a complete and unrivalled guide to the glories of the universe that we all inhabit.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781446418208"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1446418200"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 1136,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VWTNCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VWTNCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=VWTNCwAAQBAJ&printsec=frontcover&dq=isbn:9781446418208&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VWTNCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VWTNCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 21.99,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VWTNCwAAQBAJ&rdid=book-VWTNCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Road_To_Reality-sample-epub.acsm?id=VWTNCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=VWTNCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Road to Reality is rarely less than challenging, but the book is leavened by vivid descriptive passages, as well as hundreds of hand-drawn diagrams."
+   }
+  }
+ ]
+}

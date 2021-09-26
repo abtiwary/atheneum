@@ -1,0 +1,80 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jD8iswEACAAJ",
+   "etag": "qlBi9cb4i5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jD8iswEACAAJ",
+   "volumeInfo": {
+    "title": "Cracking the Coding Interview",
+    "subtitle": "189 Programming Questions and Solutions",
+    "authors": [
+     "Gayle Laakmann McDowell"
+    ],
+    "publisher": "Careercup",
+    "publishedDate": "2015",
+    "description": "Now in the 6th edition, the book gives you the interview preparation you need to get the top software developer jobs. This is a deeply technical book and focuses on the software engineering skills to ace your interview. The book includes 189 programming interview questions and answers, as well as other advice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0984782850"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780984782857"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 708,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jD8iswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jD8iswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=jD8iswEACAAJ&dq=isbn:9780984782857&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=jD8iswEACAAJ&dq=isbn:9780984782857&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Cracking_the_Coding_Interview.html?hl=&id=jD8iswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=jD8iswEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This is a deeply technical book and focuses on the software engineering skills to ace your interview. The book includes 189 programming interview questions and answers, as well as other advice."
+   }
+  }
+ ]
+}

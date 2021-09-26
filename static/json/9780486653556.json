@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sQr5AAAAQBAJ",
+   "etag": "nWhuS9c1XBI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sQr5AAAAQBAJ",
+   "volumeInfo": {
+    "title": "Fifty Challenging Problems in Probability with Solutions",
+    "authors": [
+     "Frederick Mosteller"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "1965",
+    "description": "Can you solve the problem of \"The Unfair Subway\"? Marvin gets off work at random times between 3 and 5 p.m. His mother lives uptown, his girlfriend downtown. He takes the first subway that comes in either direction and eats dinner with the one he is delivered to. His mother complains that he never comes to see her, but he says she has a 50-50 chance. He has had dinner with her twice in the last 20 working days. Explain. Marvin's adventures in probability are one of the fifty intriguing puzzles that illustrate both elementary ad advanced aspects of probability, each problem designed to challenge the mathematically inclined. From \"The Flippant Juror\" and \"The Prisoner's Dilemma\" to \"The Cliffhanger\" and \"The Clumsy Chemist,\" they provide an ideal supplement for all who enjoy the stimulating fun of mathematics. Professor Frederick Mosteller, who teaches statistics at Harvard University, has chosen the problems for originality, general interest, or because they demonstrate valuable techniques. In addition, the problems are graded as to difficulty and many have considerable stature. Indeed, one has \"enlivened the research lives of many excellent mathematicians.\" Detailed solutions are included. There is every probability you'll need at least a few of them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486653556"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486653552"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sQr5AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sQr5AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=sQr5AAAAQBAJ&printsec=frontcover&dq=isbn:9780486653556&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=sQr5AAAAQBAJ&dq=isbn:9780486653556&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Fifty_Challenging_Problems_in_Probabilit.html?hl=&id=sQr5AAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=sQr5AAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Professor Frederick Mosteller, who teaches statistics at Harvard University, has chosen the problems for originality, general interest, or because they demonstrate valuable techniques."
+   }
+  }
+ ]
+}

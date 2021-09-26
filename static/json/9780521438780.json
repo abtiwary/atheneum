@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KpIWhKnYmF0C",
+   "etag": "uiC2OQVftzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KpIWhKnYmF0C",
+   "volumeInfo": {
+    "title": "An Introduction to Hinduism",
+    "authors": [
+     "Gavin D. Flood"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1996-07-13",
+    "description": "This book provides a much-needed thematic and historical introduction to Hinduism, the religion of the majority of people in India. Dr. Flood traces the development of Hindu traditions from ancient origins and the major deities to the modern world. Hinduism as both a global religion and a form of nationalism are discussed. Emphasis is given to the tantric traditions, which have been so influential; to Hindu ritual, more fundamental than belief or doctrine; and to Dravidian influences. It introduces some debates within contemporary scholarship.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521438780"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521438780"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 341,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=KpIWhKnYmF0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=KpIWhKnYmF0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ja",
+    "previewLink": "http://books.google.com.au/books?id=KpIWhKnYmF0C&printsec=frontcover&dq=isbn:9780521438780&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=KpIWhKnYmF0C&dq=isbn:9780521438780&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/An_Introduction_to_Hinduism.html?hl=&id=KpIWhKnYmF0C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=KpIWhKnYmF0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book provides a much-needed thematic and historical introduction to Hinduism, the religion of the majority of people in India."
+   }
+  }
+ ]
+}

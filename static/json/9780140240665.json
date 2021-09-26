@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NKpUZ_GbAJUC",
+   "etag": "P2ozOg9+ahc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NKpUZ_GbAJUC",
+   "volumeInfo": {
+    "title": "The Penguin Book of Indian Railway Stories",
+    "authors": [
+     "Ruskin Bond"
+    ],
+    "publisher": "Penguin Books India",
+    "publishedDate": "1994",
+    "description": "The Stories In This Collection Capture The Essence Of The Indian Railways - From The Small-Town Station, At The Time Of The Raj, To The Present Day Big-City Station Bursting At The Seams. The Teening And Varied Life Of The Indian Railway Station And Its Environs Have Fascinated Writers From Jules Verne In The 1870S To More Recently Satyajit Ray, R.K. Laxman And More Modern Writers. In This Anthology, One Of India'S Best-Known Writers Makes A Selection Of Greattest Railway Stories The Subcontinent Has Produced. Julese Verne Rudyard Kipling Flora Annie Steel Hon. J.W. Best Jim Corbett Khushwant Singh Ruskin Bond Manoj Das Intizar Husain Satyajit Ray Bill Aitkin R.K. Laxman Victor Banerjee Manojit Mitra",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140240667"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140240665"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "English fiction - Special subjects - Transport"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NKpUZ_GbAJUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NKpUZ_GbAJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=NKpUZ_GbAJUC&printsec=frontcover&dq=isbn:9780140240665&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=NKpUZ_GbAJUC&dq=isbn:9780140240665&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Penguin_Book_of_Indian_Railway_Stori.html?hl=&id=NKpUZ_GbAJUC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=NKpUZ_GbAJUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Stories In This Collection Capture The Essence Of The Indian Railways - From The Small-Town Station, At The Time Of The Raj, To The Present Day Big-City Station Bursting At The Seams."
+   }
+  }
+ ]
+}

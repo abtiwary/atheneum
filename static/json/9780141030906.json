@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "coX3QMVjsYsC",
+   "etag": "0VFgs//D1OE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/coX3QMVjsYsC",
+   "volumeInfo": {
+    "title": "Physics of the Impossible",
+    "subtitle": "A Scientific Exploration of the World of Phasers, Force Fields, Teleportation and Time Travel",
+    "authors": [
+     "Michio Kaku"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2009",
+    "description": "'A brilliant, provocative, freewheeling tour around the exotic shores of physics' Independent From cyborgs, starships,UFOs, aliens and antimatter to telepathy, invisibility, psychokinesis and precognition According to Albert Einstein, 'If at first an idea does not sound absurd, there is not hope for it.' Physics of the Impossible shows how our most far-fetched ideas today are destined to become tomorrow's reality. Michio Kaku, bestselling author and one of the world's most acclaimed physicists, looks at the science of the future and explains what's just around the corner, what we might have to wait a few millennia to get our hands on and how surprisingly little of it is truly impossible. 'One of the world's most distinguished physicists ...... takes the reader on a journey to the frontiers of science and beyond' Guardian 'After reading Kaku's boundless enthusiasm for the future, what you wouldn't give for a real-life time machine to travel forwards and see just how accurate his predictions are' Sunday Telegraph 'Science as escapist literature . . . Kaku is to be congratulated' Los Angeles Times 'Michio Kaku is truly a phenomenon' Focus 'A rich compendium of jaw-dropping reality checks' The Times",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141030906"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0141030909"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=coX3QMVjsYsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=coX3QMVjsYsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=coX3QMVjsYsC&dq=isbn:9780141030906&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=coX3QMVjsYsC&dq=isbn:9780141030906&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Physics_of_the_Impossible.html?hl=&id=coX3QMVjsYsC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=coX3QMVjsYsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39; Physics of the Impossible shows how our most far-fetched ideas today are destined to become tomorrow&#39;s reality."
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PxurPwAACAAJ",
+   "etag": "5WFCIKywmdE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PxurPwAACAAJ",
+   "volumeInfo": {
+    "title": "In Search of the Double Helix",
+    "subtitle": "Quantum Physics and Life",
+    "authors": [
+     "John Gribbin",
+     "John R. Gribbin"
+    ],
+    "publishedDate": "1995",
+    "description": "Molecular biology is one of the great modern sciences. Headline-making developments in cloning, genetic engineering and the fight against disease all stem from the breakthrough in the 1950s and 60s of the identification of the molecule of life, DNA. This book sets out to tell the entire story of evolution: from Darwin to DNA and beyond, giving full credit to the role of quantum physics in our modern understanding of life itself, including human life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140248137"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140248135"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 369,
+    "printType": "BOOK",
+    "categories": [
+     "DNA."
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=PxurPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=PxurPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=PxurPwAACAAJ&dq=isbn:9780140248135&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=PxurPwAACAAJ&dq=isbn:9780140248135&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/In_Search_of_the_Double_Helix.html?hl=&id=PxurPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=PxurPwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book sets out to tell the entire story of evolution: from Darwin to DNA and beyond, giving full credit to the role of quantum physics in our modern understanding of life itself, including human life."
+   }
+  }
+ ]
+}

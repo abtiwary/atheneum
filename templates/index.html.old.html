@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Loanr Lite</title>
+<link rel="stylesheet" href="static/css/bootstrap.min.css">
+<link rel="stylesheet" href="static/css/bootstrap-theme.min.css">
+
+<script type="text/javascript" src="static/js/jquery-2.2.3.min.js"></script>
+<script type="text/javascript" src="static/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="static/js/actb.js"></script>
+<script type="text/javascript" src="static/js/common.js"></script>
+
+<style type="text/css"></style>
+
+<script type="text/javascript">
+function LoadJSON(callback) {
+  xhr.overrideMimeType("application/json");
+  xhr.open("GET", "static/actb_arrays.json", true);
+  xhr.onreadystatechange = function() {
+    if(xhr.readyState == 4 && xobj.status == "200") {
+      callback(xhr.responseText);
+    }
+  };
+  xhr.send(null);
+}
+
+function fInit() {
+  // load arrays from a JSON file
+  var xhr = new XMLHttpRequest();
+  var json_arrays = null;
+
+  LoadJSON(function(response){
+    json_arrays = JSON.parse(response);
+  });
+}
+</script>
+</head>
+
+
+<body onload="fInit()">
+<nav class="navbar navbar-default navbar-static-top">
+<div class="container">
+    <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="#">Loanr Lite</a>
+    </div>
+
+    <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Home</a></li>
+                    <li role="separator" class="divider"></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+</nav>
+
+<div>
+  <input type="text"></input>
+</div>
+
+
+</body>
+
+</html>

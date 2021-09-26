@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2XffAAAAMAAJ",
+   "etag": "0+aZrPQTggM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2XffAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Inside IB and RAW",
+    "subtitle": "The Rolling Stone that Gathered Moss",
+    "publishedDate": "2008",
+    "description": "The book interestingly unveils many hidden facts/secrets (good & bad) that the author faces while working with noted politicians and bureaucrats like Sanjay Gandhi, Morarji Desai, VC Shukla, Indira Gandhi, RN Kao etc. These eye opening facts are really required to come out before the public at huge.The book reveals the erroneous assessment of Chinese military strength, claims and consequent designs on our border territories in 1961 and 1962 that turned the slogan 'hindi-Chini Bhai Bhai' to Hindi-Chini Bye Bye' and a serve blow to Pandit Jawaharlal Nehru's leadership. Lapses of the Military Intelligence regarding Ichogil Canal during Indo-Pak war in 1965 and the conflict between the Indian army and IB, are really astonishing. It also unfolds the role of YB Chavan in conspiring against the then Indian Prime Minister Indira Gandhi. A very interesting turn in Indian politics has also been revealed when Indira Gandhi planned to send Rajiv Gandhi and his family to Kathmandu (Nepal) for asylum which later on turned down by Kao. All these and many more incidents/secrets highlighted by a frank and fearless administrative career, makes the book very thrilling, informative and a working tool for the general readers, politicians, bureaucrats and the like.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015081836473"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "India"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.9.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=2XffAAAAMAAJ&dq=isbn:9788170493051&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=2XffAAAAMAAJ&dq=isbn:9788170493051&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Inside_IB_and_RAW.html?hl=&id=2XffAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=2XffAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book interestingly unveils many hidden facts/secrets (good &amp; bad) that the author faces while working with noted politicians and bureaucrats like Sanjay Gandhi, Morarji Desai, VC Shukla, Indira Gandhi, RN Kao etc."
+   }
+  }
+ ]
+}

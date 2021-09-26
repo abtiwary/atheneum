@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ip50x8IOfnEC",
+   "etag": "KO4sfN/AGkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ip50x8IOfnEC",
+   "volumeInfo": {
+    "title": "The Quantum Quark",
+    "authors": [
+     "Andrew Watson"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2004-10-07",
+    "description": "Discusses ideas and stories related to the study of quantum chromodynamics, one of the four fundamental forces of nature that controls the universe in which we live, in an accessible and entertaining study.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521829070"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521829076"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=ip50x8IOfnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=ip50x8IOfnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=ip50x8IOfnEC&printsec=frontcover&dq=isbn:9780521829076&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=ip50x8IOfnEC&dq=isbn:9780521829076&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Quantum_Quark.html?hl=&id=ip50x8IOfnEC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=ip50x8IOfnEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Discusses ideas and stories related to the study of quantum chromodynamics, one of the four fundamental forces of nature that controls the universe in which we live, in an accessible and entertaining study."
+   }
+  }
+ ]
+}

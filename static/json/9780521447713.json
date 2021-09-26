@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TMSnBgPMExMC",
+   "etag": "s9mFYbTb5+s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TMSnBgPMExMC",
+   "volumeInfo": {
+    "title": "Mr Tompkins in Paperback",
+    "authors": [
+     "George Gamow"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1993-03-26",
+    "description": "The layman is introduced to modern physics when a personable bank clerk, interested in scientific matters, has fantastic adventures",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521447712"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521447713"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 185,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.4.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TMSnBgPMExMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TMSnBgPMExMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=TMSnBgPMExMC&printsec=frontcover&dq=isbn:9780521447713&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=TMSnBgPMExMC&dq=isbn:9780521447713&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Mr_Tompkins_in_Paperback.html?hl=&id=TMSnBgPMExMC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=TMSnBgPMExMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The layman is introduced to modern physics when a personable bank clerk, interested in scientific matters, has fantastic adventures"
+   }
+  }
+ ]
+}

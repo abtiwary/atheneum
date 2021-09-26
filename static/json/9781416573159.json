@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pJVllQEACAAJ",
+   "etag": "/BAEu7rwHrw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pJVllQEACAAJ",
+   "volumeInfo": {
+    "title": "How to Break a Terrorist",
+    "subtitle": "The U.S. Interrogators Who Used Brains, Not Brutality, to Take Down the Deadliest Man in Iraq",
+    "authors": [
+     "Matthew Alexander",
+     "John Bruning"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "2008-12-02",
+    "description": "Finding Abu Musab al Zarqawi, the leader of Al Qaeda in Iraq, had long been the U.S. military's top priority -- trumping even the search for Osama bin Laden. No brutality was spared in trying to squeeze intelligence from Zarqawi's suspected associates. But these \"force on force\" techniques yielded exactly nothing, and, in the wake of the Abu Ghraib scandal, the military rushed a new breed of interrogator to Iraq. Matthew Alexander, a former criminal investigator and head of a handpicked interrogation team, gives us the first inside look at the U.S. military's attempt at more civilized interrogation techniques -- and their astounding success. The intelligence coup that enabled the June 7, 2006, air strike onZarqawi's rural safe house was the result of several keenly strategized interrogations, none of which involved torture or even \"control\" tactics. Matthew and his team decided instead to get to know their opponents. Who were these monsters? Who were they working for? What were they trying to protect? Every day the \"'gators\" matched wits with a rogues' gallery of suspects brought in by Special Forces (\"door kickers\"): egomaniacs, bloodthirsty adolescents, opportunistic stereo repairmen, Sunni clerics horrified by the sectarian bloodbath, Al Qaeda fanatics, and good people in the wrong place at the wrong time. With most prisoners, negotiation was possible and psychological manipulation stunningly effective. But Matthew's commitment to cracking the case with these methods sometimes isolated his superiors and put his own career at risk. This account is an unputdownable thriller -- more of a psychological suspense story than a war memoir. And indeed, the story reaches far past the current conflict in Iraq with a reminder that we don't have to become our enemy to defeat him. Matthew Alexander and his ilk, subtle enough and flexible enough to adapt to the challenges of modern, asymmetrical warfare, have proved to be our best weapons against terrorists all over the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416573151"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416573159"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=pJVllQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=pJVllQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=pJVllQEACAAJ&dq=isbn:9781416573159&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=pJVllQEACAAJ&dq=isbn:9781416573159&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/How_to_Break_a_Terrorist.html?hl=&id=pJVllQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=pJVllQEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This account is an unputdownable thriller -- more of a psychological suspense story than a war memoir. And indeed, the story reaches far past the current conflict in Iraq with a reminder that we don&#39;t have to become our enemy to defeat him."
+   }
+  }
+ ]
+}

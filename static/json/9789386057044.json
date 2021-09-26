@@ -1,0 +1,103 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3soyDAAAQBAJ",
+   "etag": "k8ke1lBY7yw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3soyDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Collected Short Stories",
+    "authors": [
+     "Ruskin Bond"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2016-04-18",
+    "description": "Ruskin Bond wrote his first short story, ‘Untouchable’, at the age of sixteen, and has written memorable fiction ever since. He is famous not only for his love of the hills, but for imbuing the countryside with life and vibrancy through moving descriptions. The simple people who inhabit his stories evoke sympathy and laughter in equal measure. This wonderful collection of seventy stories, including classics like ‘A Face in Dark’, ‘The Kitemaker’, ‘The Tunnel’, ‘The Room of Many Colours’, ‘Dust on the Mountain’ and ‘Times Stops at Shamli’, is a must-have for any bookshelf.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789386057044"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9386057042"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3soyDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3soyDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=3soyDAAAQBAJ&printsec=frontcover&dq=isbn:9789386057044&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3soyDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3soyDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3soyDAAAQBAJ&rdid=book-3soyDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Collected_Short_Stories-sample-epub.acsm?id=3soyDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=3soyDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This wonderful collection of seventy stories, including classics like ‘A Face in Dark’, ‘The Kitemaker’, ‘The Tunnel’, ‘The Room of Many Colours’, ‘Dust on the Mountain’ and ‘Times Stops at Shamli’, is a must-have ..."
+   }
+  }
+ ]
+}

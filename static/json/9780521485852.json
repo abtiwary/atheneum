@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wx6qqnjStIEC",
+   "etag": "gyFw7CmFsdE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wx6qqnjStIEC",
+   "volumeInfo": {
+    "title": "Aztecs",
+    "subtitle": "An Interpretation",
+    "authors": [
+     "Inga Clendinnen"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "1995-02-24",
+    "description": "Inga Clendinnen's account of the Aztecs recreates the culture of the city of Tenochtitlan, magnificent centre of the Aztec empire, in its last unthreatened years before it fell to the Spaniards and their Indian allies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521485851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521485852"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 398,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wx6qqnjStIEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wx6qqnjStIEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=wx6qqnjStIEC&printsec=frontcover&dq=isbn:9780521485852&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=wx6qqnjStIEC&dq=isbn:9780521485852&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Aztecs.html?hl=&id=wx6qqnjStIEC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=wx6qqnjStIEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inga Clendinnen&#39;s account of the Aztecs recreates the culture of the city of Tenochtitlan, magnificent centre of the Aztec empire, in its last unthreatened years before it fell to the Spaniards and their Indian allies."
+   }
+  }
+ ]
+}

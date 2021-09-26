@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8vPaCAAAQBAJ",
+   "etag": "BzchCJ6Ccfs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8vPaCAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "subtitle": "A Trilogy in Four Parts",
+    "authors": [
+     "Douglas Adams"
+    ],
+    "publisher": "DISCOZUU",
+    "publishedDate": "2002",
+    "description": "A one-volume edition charting Arthur Dent's odyssey through space, comprising:\"The Hitchhikers Guide to the Galaxy\": One Thursday lunchtime the Earth gets demolished to make way for a hyperspace bypass. For Arthur, who has just had his house demolished, this is too much. Sadly, the weekend's just begun.\"The Restaurant at the End of the Universe\": When all issues of space, time, matter and the nature of being are resolved, only one question remains: Where shall we have dinner? \"The Restaurant at the End of the Universe\" provides the ultimate gastronomic experience and, for once, there is no morning after.\"Life, the Universe and Everything\": In consequence of a number of stunning catastrophes, Arthur Dent is surprised to find himself living in a hideously miserable cave on prehistoric Earth. And then, just as he thinks that things cannot possibly get any worse, they suddenly do.\"So Long, and Thanks for all the Fish\": Arthur Dent's sense of reality is in its dickiest state when he suddenly finds the girl of his dreams. They go in search of God's Final Message and, in a dramatic break with tradition, actually find it.",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 764,
+    "printType": "BOOK",
+    "categories": [
+     "Dent, Arthur"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3078,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8vPaCAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8vPaCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=8vPaCAAAQBAJ&dq=isbn:9780330492041&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=8vPaCAAAQBAJ&dq=isbn:9780330492041&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Hitchhiker_s_Guide_to_the_Galaxy.html?hl=&id=8vPaCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=8vPaCAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "For Arthur, who has just had his house demolished, this is too much. Sadly, the weekend&#39;s just begun."
+   }
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9SZtRQAACAAJ",
+   "etag": "fkTLnPhrQSI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9SZtRQAACAAJ",
+   "volumeInfo": {
+    "title": "The Communist Manifesto",
+    "authors": [
+     "Karl Marx",
+     "Friedrich Engels"
+    ],
+    "publishedDate": "2010",
+    "description": "This is the founding document of communism, the touchstone to revolution. This book showcases what is not only a pivotal example of political writing, but also a dramatic piece of literature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1848375921"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848375925"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 70,
+    "printType": "BOOK",
+    "categories": [
+     "Communism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 996,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=9SZtRQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=9SZtRQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=9SZtRQAACAAJ&dq=isbn:9781848375925&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=9SZtRQAACAAJ&dq=isbn:9781848375925&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Communist_Manifesto.html?hl=&id=9SZtRQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=9SZtRQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This is the founding document of communism, the touchstone to revolution. This book showcases what is not only a pivotal example of political writing, but also a dramatic piece of literature."
+   }
+  }
+ ]
+}

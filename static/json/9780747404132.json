@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8GVgQgAACAAJ",
+   "etag": "ObRszY1lYFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8GVgQgAACAAJ",
+   "volumeInfo": {
+    "title": "Chaos",
+    "subtitle": "Making a New Science",
+    "authors": [
+     "James Gleick"
+    ],
+    "publishedDate": "1987",
+    "description": "The million-copy bestseller by National Book Award nominee and Pulitzer Prize finalist James Gleick that reveals the science behind chaos theory National bestsellerMore than a million copies sold A work of popular science in the tradition of Stephen Hawking and Carl Sagan, this 20th-anniversary edition of James Gleick's groundbreaking bestseller \"Chaos \"introduces a whole new readership to chaos theory, one of the most significant waves of scientific knowledge in our time. From Edward Lorenz's discovery of the Butterfly Effect, to Mitchell Feigenbaum's calculation of a universal constant, to Benoit Mandelbrot's concept of fractals, which created a new geometry of nature, Gleick's engaging narrative focuses on the key figures whose genius converged to chart an innovative direction for science. In \"Chaos,\" Gleick makes the story of chaos theory not only fascinating but also accessible to beginners, and opens our eyes to a surprising new view of the universe.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0747404135"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780747404132"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Chaotic behavior in systems"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 24,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=8GVgQgAACAAJ&dq=isbn:9780747404132&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=8GVgQgAACAAJ&dq=isbn:9780747404132&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Chaos.html?hl=&id=8GVgQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=8GVgQgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The million-copy bestseller by National Book Award nominee and Pulitzer Prize finalist James Gleick that reveals the science behind chaos theory National bestsellerMore than a million copies sold A work of popular science in the tradition ..."
+   }
+  }
+ ]
+}

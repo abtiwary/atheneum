@@ -1,0 +1,147 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4-Jws6B3bfYC",
+   "etag": "ue+Bc5ce0R0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4-Jws6B3bfYC",
+   "volumeInfo": {
+    "title": "Black Holes and Baby Universes and Other Essays",
+    "authors": [
+     "Stephen Hawking",
+     "Stephen W. Hawking"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "1994",
+    "description": "Readers worldwide have come to know the work of Stephen Hawking through his phenomenal bestseller A Brief History of Time. Now in his first collection of essays and other pieces - on subjects that range from warmly personal to the wholly scientific- Stephen Hawking is revelaed varioulsy as the scientist, the man, the concerned world citizen, and - as always - the rigourous and imaginative thinker. Whether he is remebering his first experience of nursery school; puncturing the arrogance of those who think science can best be understood only by other scientists and should be left to them; exploring the origins and the future of the universe; or reflecting on the phenomenon of A Brief History of Time, Stephen's wit, directness of style and absence of pomp are vital characteristics at all times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553406634"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0553406639"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Cosmology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.7.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=4-Jws6B3bfYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=4-Jws6B3bfYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=4-Jws6B3bfYC&printsec=frontcover&dq=isbn:9780553406634&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=4-Jws6B3bfYC&dq=isbn:9780553406634&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Black_Holes_and_Baby_Universes_and_Other.html?hl=&id=4-Jws6B3bfYC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=4-Jws6B3bfYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Readers worldwide have come to know the work of Stephen Hawking through his phenomenal bestseller A Brief History of Time."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AzmhjgEACAAJ",
+   "etag": "XeZpPawwcFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AzmhjgEACAAJ",
+   "volumeInfo": {
+    "title": "Black Holes and Baby Universes and Other Essays",
+    "authors": [
+     "Stephen Hawking",
+     "Stephen W. Hawking"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "1994",
+    "description": "Readers worldwide have come to know the work of Stephen Hawking through his phenomenal bestseller A Brief History of Time. Now in his first collection of essays and other pieces - on subjects that range from warmly personal to the wholly scientific- Stephen Hawking is revelaed varioulsy as the scientist, the man, the concerned world citizen, and - as always - the rigourous and imaginative thinker. Whether he is remebering his first experience of nursery school; puncturing the arrogance of those who think science can best be understood only by other scientists and should be left to them; exploring the origins and the future of the universe; or reflecting on the phenomenon of A Brief History of Time, Stephen's wit, directness of style and absence of pomp are vital characteristics at all times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553406634"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0553406639"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Cosmology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.7.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=AzmhjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=AzmhjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=AzmhjgEACAAJ&dq=isbn:9780553406634&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=AzmhjgEACAAJ&dq=isbn:9780553406634&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Black_Holes_and_Baby_Universes_and_Other.html?hl=&id=AzmhjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=AzmhjgEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

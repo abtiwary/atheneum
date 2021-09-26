@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "a8lXAAAAYAAJ",
+   "etag": "J2mbU6R6YT4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a8lXAAAAYAAJ",
+   "volumeInfo": {
+    "title": "UML toolkit",
+    "authors": [
+     "Hans-Erik Eriksson",
+     "Magnus Penker"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "1998",
+    "description": "Learn how to move to UML for current users of the Booch/OMT/Objectory methods * Provides numerous real-world examples and a complete case study that walks you through the project life cycle-analysis, design, and construction * Includes CD-ROM with Rational Rose(r) 4.0 demo, analysis and design models in UML, and Java(TM) code HANS-ERIK ERIKSSON AND MAGNUS PENKER Quickly acquire the knowledge and skills you need to make the most of this revolutionary visual modeling language With the release of UML, object-oriented developers at last have a common language for modeling and developing software systems. That means less time wasted sorting out conflicting terms and symbols and more time spent modeling better software systems. Now this powerful book/CD package arms you with everything you need to make the most of UML and the rapidly growing suite of UML-based products. The authors walk you through the entire language, providing easy-to-follow guidelines and loads of real-world examples. They also give you detailed explanations of all UML diagrams, a full-length case study showing how UML is used to develop an application, a visual glossary of all UML notations, and step-by-step instructions on how to: * Move to UML from Booch, OMT, and Objectory * Map Java to UML-including many full-blown examples * Define design patterns and how to use patterns in UML * Describe real-time systems in UML * Employ use cases to capture a system's functional requirements On the CD-ROM you'll find: * All UML models from the book * All the Java code from the book * Demo version of Rational Rose(r) 4.0",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000043594375"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 397,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a8lXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a8lXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=a8lXAAAAYAAJ&dq=isbn:9780471191612&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=a8lXAAAAYAAJ&dq=isbn:9780471191612&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/UML_toolkit.html?hl=&id=a8lXAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=a8lXAAAAYAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "They also give you detailed explanations of all UML diagrams, a full-length case study showing how UML is used to develop an application, a visual glossary of all UML notations, and step-by-step instructions on how to: * Move to UML from ..."
+   }
+  }
+ ]
+}

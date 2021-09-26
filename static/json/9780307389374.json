@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "07hgJbzQrt0C",
+   "etag": "ilYNKbWfWVE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/07hgJbzQrt0C",
+   "volumeInfo": {
+    "title": "Von Braun",
+    "subtitle": "Dreamer of Space, Engineer of War",
+    "authors": [
+     "Michael J. Neufeld"
+    ],
+    "publisher": "Vintage Books USA",
+    "publishedDate": "2008",
+    "description": "An in-depth biography of Wernher von Braun offers a multifaceted portrait of the visionary German scientist who became the chief rocket engineer of the Third Reich, creator of the V-2 rocket, reluctant SS officer, and one of the fathers of the U.S. space program. Reprint. 15,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307389374"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0307389375"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 587,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=07hgJbzQrt0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=07hgJbzQrt0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=07hgJbzQrt0C&dq=isbn:9780307389374&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=07hgJbzQrt0C&dq=isbn:9780307389374&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Von_Braun.html?hl=&id=07hgJbzQrt0C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=07hgJbzQrt0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An in-depth biography of Wernher von Braun offers a multifaceted portrait of the visionary German scientist who became the chief rocket engineer of the Third Reich, creator of the V-2 rocket, reluctant SS officer, and one of the fathers of ..."
+   }
+  }
+ ]
+}

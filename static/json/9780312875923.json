@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DtvQTQYaWJ8C",
+   "etag": "KooOFHG/1ys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DtvQTQYaWJ8C",
+   "volumeInfo": {
+    "title": "One Giant Leap",
+    "subtitle": "Neil Armstrong's Stellar American Journey",
+    "authors": [
+     "Leon Wagener"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2005-01-01",
+    "description": "An in-depth biography of America's first astronaut to walk on the moon draws on NASA archives and hundreds of interviews with family, friends, and colleagues to capture the life and times of an enigmatic and private man who braved the incredible dangers of space travel to become a member of the Apollo 11 crew. Reprint. 25,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312875924"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312875923"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=DtvQTQYaWJ8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=DtvQTQYaWJ8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=DtvQTQYaWJ8C&dq=isbn:9780312875923&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=DtvQTQYaWJ8C&dq=isbn:9780312875923&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/One_Giant_Leap.html?hl=&id=DtvQTQYaWJ8C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=DtvQTQYaWJ8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An in-depth biography of America&#39;s first astronaut to walk on the moon draws on NASA archives and hundreds of interviews with family, friends, and colleagues to capture the life and times of an enigmatic and private man who braved the ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pAJPAQAAIAAJ",
+   "etag": "R5yA4n+Dz5o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pAJPAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Difficulty of Being Good",
+    "subtitle": "On the Subtle Art of Dharma",
+    "authors": [
+     "Gurcharan Das"
+    ],
+    "publisher": "Penguin Global",
+    "publishedDate": "2009",
+    "description": "In his new book, Gurcharan Das turns to the Mahabharata in order to answer the question, 'why be good?', and discovers that the epic's world of moral haziness and uncertainty is closer to our experience as ordinary human beings than the narrow and rigid positions that define most debate in this fundamentalist age of moral certainty.The Mahabharata is obsessed with the elusive notion of dharma-in essence, doing the right thing. When a hero falters, the action stops and everyone weighs in with a different and often contradictory take on dharma. The epic's characters are flawed, but their incoherent experiences throw light on our familiar dilemmas.Gurcharan Das's best-selling book India Unbound examined the classical aim of artha, material well being. This, his first book in seven years, dwells on the goal of dharma, moral well being. It addresses the central problem of how to live our lives in an examined way-holding a mirror up to us andforcing us to confront the many ways in which we deceive ourselves and others. What emerges is a doctrine of dharma that we can apply to our business decisions, political strategies and interpersonal relationships-in effect, to life itself.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105215277836"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 434,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pAJPAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pAJPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=pAJPAQAAIAAJ&dq=isbn:9780670083497&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=pAJPAQAAIAAJ&dq=isbn:9780670083497&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/The_Difficulty_of_Being_Good.html?hl=&id=pAJPAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=pAJPAQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This, his first book in seven years, dwells on the goal of dharma, moral well being."
+   }
+  }
+ ]
+}

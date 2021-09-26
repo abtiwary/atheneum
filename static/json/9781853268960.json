@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Fq1uKmT02aMC",
+   "etag": "jnAwbkzkj2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fq1uKmT02aMC",
+   "volumeInfo": {
+    "title": "Sherlock Holmes",
+    "subtitle": "The Complete Stories",
+    "authors": [
+     "Arthur Conan Doyle"
+    ],
+    "publisher": "Wordsworth Editions",
+    "publishedDate": "1989",
+    "description": "It is more than a century since the ascetic, gaunt and enigmatic detective, Sherlock Holmes, made his first appearance in A Study in Scarlet. From 1891, beginning with The Adventures of Sherlock Holmes, the now legendary and pioneering Strand Magazine began serialising Arthur Conan Doyle's matchless tales of detection, featuring the incomparable sleuth patiently assisted by his doggedly loyal and lovably pedantic friend and companion, Dr Watson. The stories are illustrated by the remarkable Sydney Paget from whom our images of Sherlock Holmes and his world derive and who first equipped Holmes with his famous deerstalker hat. The literary cult of Sherlock Holmes shows no sign of fading with time as each new generation comes to love and revere the penetrating mind and ruthless logic which were the undoing of so many Victorian master criminals.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1853268968"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781853268960"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1408,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.au/books/content?id=Fq1uKmT02aMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.au/books/content?id=Fq1uKmT02aMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=Fq1uKmT02aMC&printsec=frontcover&dq=isbn:9781853268960&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=Fq1uKmT02aMC&dq=isbn:9781853268960&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.au/books/about/Sherlock_Holmes.html?hl=&id=Fq1uKmT02aMC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.au/books/reader?id=Fq1uKmT02aMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The stories are illustrated by the remarkable Sydney Paget from whom our images of Sherlock Holmes and his world derive and who first equipped Holmes with his famous deerstalker hat."
+   }
+  }
+ ]
+}

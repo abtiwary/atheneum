@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block content %}
+<table id="books" class="table">
+    <thead><tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Subtitle</th>
+        <th>Authors</th>
+        <th>Publisher</th>
+        <th>Published Date</th>
+        <th>Description</th>
+        <th>ISBN 10</th>
+        <th>ISBN 13</th>
+        <th>Page Count</th>
+        <th>Categories</th>
+        <th>Thumbnail</th>
+    </tr></thead>
+    {% for row in render_dict["rows"] %}
+    <tr>
+        {% for item in row %}
+        {% if loop.index == 12 %}
+        {% elif loop.index == 13 %}
+        <td><img src="{{ item }}"></img><td>
+        {% else %}
+        <td>{{ item }}</td>
+        {% endif %}
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>
+
+<script type="text/javascript">
+function fGoHome() {
+    window.location.assign("http://{{ render_dict["localip"] }}:{{ render_dict["port"] }}/");
+}
+
+function AutoCompleteInit() {
+}
+</script>
+{% endblock %}
